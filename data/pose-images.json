@@ -17,7 +17,18 @@
         "example-full": "assets/pose/P001-common/example-full.jpg",
         "example": "assets/pose/P001-common/example.jpg"
       },
-      "name": "自然行走"
+      "name": "自然行走",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "左脚向前迈步、右臂前摆，固定同一步态。",
+      "pose_category": "行走",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P002",
@@ -30,7 +41,18 @@
         "example-full": "assets/pose/P002-common/example-full.jpg",
         "example": "assets/pose/P002-common/example.jpg"
       },
-      "name": "双手交叠站立"
+      "name": "双手交叠站立",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手轻叠于腹前，肘部放松，脚步站稳。",
+      "pose_category": "站姿",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P003",
@@ -43,7 +65,18 @@
         "example-full": "assets/pose/P003-common/example-full.jpg",
         "example": "assets/pose/P003-common/example.jpg"
       },
-      "name": "坐凳歇息"
+      "name": "坐凳歇息",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "端坐矮凳，双脚落地、双手置膝。",
+      "pose_category": "坐姿",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P004",
@@ -56,7 +89,18 @@
         "example-full": "assets/pose/P004-common/example-full.jpg",
         "example": "assets/pose/P004-common/example.jpg"
       },
-      "name": "自然站立"
+      "name": "自然站立",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双臂自然下垂，双脚略分开，重心稳定。",
+      "pose_category": "站姿",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P005",
@@ -69,7 +113,18 @@
         "example-full": "assets/pose/P005-common/example-full.jpg",
         "example": "assets/pose/P005-common/example.jpg"
       },
-      "name": "背手站立"
+      "name": "背手站立",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手相握于腰后，躯干直立。",
+      "pose_category": "站姿",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P006",
@@ -82,7 +137,18 @@
         "example-full": "assets/pose/P006-common/example-full.jpg",
         "example": "assets/pose/P006-common/example.jpg"
       },
-      "name": "胸前拱手行礼"
+      "name": "胸前拱手行礼",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "影视男式拱手站姿 · 双肘外开、双手前伸",
+      "pose_category": "礼仪",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P007",
@@ -95,7 +161,18 @@
         "example-full": "assets/pose/P007-common/example-full.jpg",
         "example": "assets/pose/P007-common/example.jpg"
       },
-      "name": "跪姿行礼"
+      "name": "跪姿行礼",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双膝着地、臀部落于足跟附近，双手相合于胸前；非叩首。",
+      "pose_category": "礼仪",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P008",
@@ -108,7 +185,18 @@
         "example-full": "assets/pose/P008-common/example-full.jpg",
         "example": "assets/pose/P008-common/example.jpg"
       },
-      "name": "双手端托盘"
+      "name": "双手端托盘",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双肘弯曲，双手从两侧托住水平托盘。",
+      "pose_category": "侍奉交接",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P009",
@@ -121,7 +209,18 @@
         "example-full": "assets/pose/P009-common/example-full.jpg",
         "example": "assets/pose/P009-common/example.jpg"
       },
-      "name": "双手递接物品"
+      "name": "双手递接物品",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双臂向前伸出，双手托住小盒，表示递交瞬间。",
+      "pose_category": "侍奉交接",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P010",
@@ -134,7 +233,18 @@
         "example-full": "assets/pose/P010-common/example-full.jpg",
         "example": "assets/pose/P010-common/example.jpg"
       },
-      "name": "站立持卷阅读"
+      "name": "站立持卷阅读",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "站立，双手持展开书卷，头部略低。",
+      "pose_category": "读写",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P011",
@@ -147,7 +257,18 @@
         "example-full": "assets/pose/P011-common/example-full.jpg",
         "example": "assets/pose/P011-common/example.jpg"
       },
-      "name": "案前坐姿书写"
+      "name": "案前坐姿书写",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐于桌前，右手执笔，左手扶纸，双脚落地。",
+      "pose_category": "读写",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P012",
@@ -160,7 +281,18 @@
         "example-full": "assets/pose/P012-common/example-full.jpg",
         "example": "assets/pose/P012-common/example.jpg"
       },
-      "name": "持长柄物警戒"
+      "name": "持长柄物警戒",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "站立警戒，一手持竖直长杆，杆底接地。",
+      "pose_category": "军旅行动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P013",
@@ -173,7 +305,18 @@
         "example-full": "assets/pose/P013-common/example-full.jpg",
         "example": "assets/pose/P013-common/example.jpg"
       },
-      "name": "跨步防御"
+      "name": "跨步防御",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "左腿在前屈膝，右腿后伸，双手抬起防御。",
+      "pose_category": "军旅行动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P014",
@@ -186,7 +329,18 @@
         "example-full": "assets/pose/P014-common/example-full.jpg",
         "example": "assets/pose/P014-common/example.jpg"
       },
-      "name": "跨步挥击"
+      "name": "跨步挥击",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "弓步，双手握练习短棍，定格斜向挥击结束位置。",
+      "pose_category": "军旅行动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P015",
@@ -199,7 +353,18 @@
         "example-full": "assets/pose/P015-common/example-full.jpg",
         "example": "assets/pose/P015-common/example.jpg"
       },
-      "name": "奔跑"
+      "name": "奔跑",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "身体略前倾，左右臂腿交替摆动，定格跑步瞬间。",
+      "pose_category": "军旅行动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P016",
@@ -212,7 +377,18 @@
         "example-full": "assets/pose/P016-common/example-full.jpg",
         "example": "assets/pose/P016-common/example.jpg"
       },
-      "name": "站立合掌"
+      "name": "站立合掌",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双掌相对合于胸前、指尖向上，肩肘放松。",
+      "pose_category": "宗教",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P017",
@@ -225,7 +401,18 @@
         "example-full": "assets/pose/P017-common/example-full.jpg",
         "example": "assets/pose/P017-common/example.jpg"
       },
-      "name": "盘坐静修"
+      "name": "盘坐静修",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "普通盘腿坐姿，双手自然置膝，不强求全莲花。",
+      "pose_category": "宗教",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P018",
@@ -238,7 +425,18 @@
         "example-full": "assets/pose/P018-common/example-full.jpg",
         "example": "assets/pose/P018-common/example.jpg"
       },
-      "name": "儿童蹲坐玩耍"
+      "name": "儿童蹲坐玩耍",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "儿童比例，双脚着地蹲下，一手扶膝，一手触碰地面木块。",
+      "pose_category": "儿童",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P019",
@@ -251,7 +449,18 @@
         "example-full": "assets/pose/P019-photo/example-full.jpg",
         "example": "assets/pose/P019-photo/example.jpg"
       },
-      "name": "重心侧立"
+      "name": "重心侧立",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "重心落在右腿，左膝微曲，左脚轻点前方，肩线自然倾斜，双手放松。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P020",
@@ -264,7 +473,18 @@
         "example-full": "assets/pose/P020-photo/example-full.jpg",
         "example": "assets/pose/P020-photo/example.jpg"
       },
-      "name": "松弛抱臂"
+      "name": "松弛抱臂",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双臂自然交叉于胸前下方，肩部放松，两脚略分开。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P021",
@@ -277,7 +497,18 @@
         "example-full": "assets/pose/P021-photo/example-full.jpg",
         "example": "assets/pose/P021-photo/example.jpg"
       },
-      "name": "单手扶帽"
+      "name": "单手扶帽",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "左臂下垂，右手轻扶帽檐，头部略侧转；帽子只作接触参照。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P022",
@@ -290,7 +521,18 @@
         "example-full": "assets/pose/P022-photo/example-full.jpg",
         "example": "assets/pose/P022-photo/example.jpg"
       },
-      "name": "低头整理衣袖"
+      "name": "低头整理衣袖",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "左前臂抬至腰腹前，右手轻捏左袖口，头部略低。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P023",
@@ -303,7 +545,18 @@
         "example-full": "assets/pose/P023-photo/example-full.jpg",
         "example": "assets/pose/P023-photo/example.jpg"
       },
-      "name": "侧坐回望"
+      "name": "侧坐回望",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐在矮凳上，双膝并拢斜向一侧，双脚着地，双手置膝，头肩轻转。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P024",
@@ -316,7 +569,18 @@
         "example-full": "assets/pose/P024/example-full.jpg",
         "example": "assets/pose/P024/example.jpg"
       },
-      "name": "案前坐姿持扇"
+      "name": "案前坐姿持扇",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "端坐矮凳，一侧前臂轻搭桌沿，另一手在膝上斜持团扇。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P025",
@@ -329,7 +593,18 @@
         "example-full": "assets/pose/P025/example-full.jpg",
         "example": "assets/pose/P025/example.jpg"
       },
-      "name": "庭院·抬手探叶"
+      "name": "庭院·抬手探叶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一手抬到脸侧轻触枝叶，另一手自然垂下，双脚前后错开。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P026",
@@ -342,7 +617,18 @@
         "example-full": "assets/pose/P026/example-full.jpg",
         "example": "assets/pose/P026/example.jpg"
       },
-      "name": "街头·倚柱交脚"
+      "name": "街头·倚柱交脚",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一侧肩膀轻倚立柱，双脚交叠，手臂放松。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P027",
@@ -355,7 +641,18 @@
         "example-full": "assets/pose/P027/example-full.jpg",
         "example": "assets/pose/P027/example.jpg"
       },
-      "name": "郊外·坐石歇息"
+      "name": "郊外·坐石歇息",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "松弛坐在低石台边，一手扶台面，另一侧前臂搭在膝上，略微抬头。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P028",
@@ -368,7 +665,18 @@
         "example-full": "assets/pose/P028/example-full.jpg",
         "example": "assets/pose/P028/example.jpg"
       },
-      "name": "骑马·端坐执缰"
+      "name": "骑马·端坐执缰",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "跨坐马鞍，双脚入镫，双手放松持缰。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P029",
@@ -381,7 +689,18 @@
         "example-full": "assets/pose/P029/example-full.jpg",
         "example": "assets/pose/P029/example.jpg"
       },
-      "name": "乘马车·挑帘侧望"
+      "name": "乘马车·挑帘侧望",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐在马车长凳上，一手轻挑侧帘，另一手放在膝上。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P030",
@@ -394,7 +713,18 @@
         "example-full": "assets/pose/P030/example-full.jpg",
         "example": "assets/pose/P030/example.jpg"
       },
-      "name": "俏皮·探身露面"
+      "name": "俏皮·探身露面",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手轻搭立柱边缘，探出头和一侧肩膀，一脚向外迈出。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P031",
@@ -407,7 +737,18 @@
         "example-full": "assets/pose/P031/example-full.jpg",
         "example": "assets/pose/P031/example.jpg"
       },
-      "name": "俏皮·提摆轻跳"
+      "name": "俏皮·提摆轻跳",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "通用",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一手轻提外摆，另一臂自然外摆，一脚落地、另一脚向后抬。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P032",
@@ -420,7 +761,18 @@
         "example-full": "assets/pose/P032/example-full.jpg",
         "example": "assets/pose/P032/example.jpg"
       },
-      "name": "骑马·策马飞奔"
+      "name": "骑马·策马飞奔",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "上身伏低，双手持缰，马匹定格于飞驰步态。影视灵感来自《成吉思汗》的草原骑乘场面。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P033",
@@ -433,7 +785,18 @@
         "example-full": "assets/pose/P033/example-full.jpg",
         "example": "assets/pose/P033/example.jpg"
       },
-      "name": "汉风·扬袖起舞"
+      "name": "汉风·扬袖起舞",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单腿承重，另一脚斜后点地，一手扬袖过头，另一臂向侧下方伸展。动作灵感来自《卫子夫》的歌舞场面。",
+      "pose_category": "歌舞演奏",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P034",
@@ -446,7 +809,18 @@
         "example-full": "assets/pose/P034/example-full.jpg",
         "example": "assets/pose/P034/example.jpg"
       },
-      "name": "唐风·抱琵琶弹奏"
+      "name": "唐风·抱琵琶弹奏",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐于矮凳，斜抱琵琶，一手按弦，另一手在琴身前拨弦。唐风乐伎场景原创动作。",
+      "pose_category": "歌舞演奏",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P035",
@@ -459,7 +833,18 @@
         "example-full": "assets/pose/P035/example-full.jpg",
         "example": "assets/pose/P035/example.jpg"
       },
-      "name": "宋风·案前点茶"
+      "name": "宋风·案前点茶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "在茶案前坐定，一手持茶筅击拂，另一手扶茶盏。动作灵感来自《梦华录》的斗茶场面。",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P036",
@@ -472,7 +857,18 @@
         "example-full": "assets/pose/P036/example-full.jpg",
         "example": "assets/pose/P036/example.jpg"
       },
-      "name": "雨巷·撑伞漫步"
+      "name": "雨巷·撑伞漫步",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单手举油纸伞斜过肩头，另一臂随步伐放松。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P037",
@@ -485,7 +881,18 @@
         "example-full": "assets/pose/P037/example-full.jpg",
         "example": "assets/pose/P037/example.jpg"
       },
-      "name": "灯市·提灯低看"
+      "name": "灯市·提灯低看",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单手将灯笼提至腰前，头随灯光微低。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P038",
@@ -498,7 +905,18 @@
         "example-full": "assets/pose/P038/example-full.jpg",
         "example": "assets/pose/P038/example.jpg"
       },
-      "name": "桥边·伏栏远望"
+      "name": "桥边·伏栏远望",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双前臂轻搭横栏，上身前倾，双脚站稳。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P039",
@@ -511,7 +929,18 @@
         "example-full": "assets/pose/P039/example-full.jpg",
         "example": "assets/pose/P039/example.jpg"
       },
-      "name": "花下·半蹲拾花"
+      "name": "花下·半蹲拾花",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双膝弯曲降低重心，一手够向落花，另一手搭膝。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P040",
@@ -524,7 +953,18 @@
         "example-full": "assets/pose/P040/example-full.jpg",
         "example": "assets/pose/P040/example.jpg"
       },
-      "name": "郊游·放风筝"
+      "name": "郊游·放风筝",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "前手抬起牵线，后手持线轴，重心随视线略向前。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P041",
@@ -537,7 +977,18 @@
         "example-full": "assets/pose/P041/example-full.jpg",
         "example": "assets/pose/P041/example.jpg"
       },
-      "name": "庭院·坐荡秋千"
+      "name": "庭院·坐荡秋千",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐在秋千板上，双手握住两侧绳索，双脚略向前伸。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P042",
@@ -550,7 +1001,18 @@
         "example-full": "assets/pose/P042/example-full.jpg",
         "example": "assets/pose/P042/example.jpg"
       },
-      "name": "亭中·席地抚琴"
+      "name": "亭中·席地抚琴",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "席地坐在琴案前，一手按弦，另一手拨奏横放的古琴。",
+      "pose_category": "歌舞演奏",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P043",
@@ -563,7 +1025,18 @@
         "example-full": "assets/pose/P043/example-full.jpg",
         "example": "assets/pose/P043/example.jpg"
       },
-      "name": "竹林·横笛吹奏"
+      "name": "竹林·横笛吹奏",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "站立双手横持竹笛至唇边，双肘自然打开。",
+      "pose_category": "歌舞演奏",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P044",
@@ -576,7 +1049,18 @@
         "example-full": "assets/pose/P044/example-full.jpg",
         "example": "assets/pose/P044/example.jpg"
       },
-      "name": "祈愿·踮脚系绸"
+      "name": "祈愿·踮脚系绸",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "轻踮脚，一手将祈愿绸举至木架，一手扶架。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P045",
@@ -589,7 +1073,18 @@
         "example-full": "assets/pose/P045/example-full.jpg",
         "example": "assets/pose/P045/example.jpg"
       },
-      "name": "水岸·俯身放荷灯"
+      "name": "水岸·俯身放荷灯",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "低蹲在岸边，两手托莲花灯下放至水面。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P046",
@@ -602,7 +1097,18 @@
         "example-full": "assets/pose/P046/example-full.jpg",
         "example": "assets/pose/P046/example.jpg"
       },
-      "name": "石阶·提摆登阶"
+      "name": "石阶·提摆登阶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一脚跨上台阶，一手提起下摆，另一臂伸出平衡。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P047",
@@ -615,7 +1121,18 @@
         "example-full": "assets/pose/P047/example-full.jpg",
         "example": "assets/pose/P047/example.jpg"
       },
-      "name": "马前·踩镫上马"
+      "name": "马前·踩镫上马",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "扶住马鞍，一脚踩入马镫，另一脚从地面蹬起。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P048",
@@ -628,7 +1145,18 @@
         "example-full": "assets/pose/P048/example-full.jpg",
         "example": "assets/pose/P048/example.jpg"
       },
-      "name": "古道·牵马缓行"
+      "name": "古道·牵马缓行",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "走在马的侧前方，一手牵松缰，另一臂随步伐摆动。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P049",
@@ -641,7 +1169,18 @@
         "example-full": "assets/pose/P049/example-full.jpg",
         "example": "assets/pose/P049/example.jpg"
       },
-      "name": "水上·侧坐划桨"
+      "name": "水上·侧坐划桨",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐在船凳上，双手握一支长桨，从船侧划水。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P050",
@@ -654,7 +1193,18 @@
         "example-full": "assets/pose/P050/example-full.jpg",
         "example": "assets/pose/P050/example.jpg"
       },
-      "name": "竹筏·撑篙渡水"
+      "name": "竹筏·撑篙渡水",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双脚前后分开站在筏尾，双手持竹篙斜向水面。",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P051",
@@ -667,7 +1217,18 @@
         "example-full": "assets/pose/P051/example-full.jpg",
         "example": "assets/pose/P051/example.jpg"
       },
-      "name": "庭院·抬脚踢毽"
+      "name": "庭院·抬脚踢毽",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一脚承重，另一脚屈膝抬起用脚内侧迎毽，双臂略张。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P052",
@@ -680,7 +1241,18 @@
         "example-full": "assets/pose/P052/example-full.jpg",
         "example": "assets/pose/P052/example.jpg"
       },
-      "name": "庭院·单手投壶"
+      "name": "庭院·单手投壶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "前后错步，一手向壶口送出投壶筹。",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P053",
@@ -693,7 +1265,18 @@
         "example-full": "assets/pose/P053/example-full.jpg",
         "example": "assets/pose/P053/example.jpg"
       },
-      "name": "溪边·蹲姿浣衣"
+      "name": "溪边·蹲姿浣衣",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "在溪石旁蹲下，双手在平石上揉洗布料。",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P054",
@@ -706,7 +1289,18 @@
         "example-full": "assets/pose/P054/example-full.jpg",
         "example": "assets/pose/P054/example.jpg"
       },
-      "name": "窗下·举线刺绣"
+      "name": "窗下·举线刺绣",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐在矮凳上，一手托圆绷架，另一手提起绣线。",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P055",
@@ -719,7 +1313,18 @@
         "example-full": "assets/pose/P055/example-full.jpg",
         "example": "assets/pose/P055/example.jpg"
       },
-      "name": "双手背后转身带裙"
+      "name": "双手背后转身带裙",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手背后转身带裙",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P056",
@@ -732,7 +1337,18 @@
         "example-full": "assets/pose/P056/example-full.jpg",
         "example": "assets/pose/P056/example.jpg"
       },
-      "name": "踮脚向远处招手"
+      "name": "踮脚向远处招手",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "踮脚向远处招手",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P057",
@@ -745,7 +1361,18 @@
         "example-full": "assets/pose/P057/example-full.jpg",
         "example": "assets/pose/P057/example.jpg"
       },
-      "name": "弯腰穿过低枝"
+      "name": "弯腰穿过低枝",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "弯腰穿过低枝",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P058",
@@ -758,7 +1385,18 @@
         "example-full": "assets/pose/P058/example-full.jpg",
         "example": "assets/pose/P058/example.jpg"
       },
-      "name": "脚尖试水"
+      "name": "脚尖试水",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "脚尖试水",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P059",
@@ -771,7 +1409,18 @@
         "example-full": "assets/pose/P059/example-full.jpg",
         "example": "assets/pose/P059/example.jpg"
       },
-      "name": "跳过小水洼"
+      "name": "跳过小水洼",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "跳过小水洼",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P060",
@@ -784,7 +1433,18 @@
         "example-full": "assets/pose/P060/example-full.jpg",
         "example": "assets/pose/P060/example.jpg"
       },
-      "name": "沿窄石缘侧步"
+      "name": "沿窄石缘侧步",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "沿窄石缘侧步",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P061",
@@ -797,7 +1457,18 @@
         "example-full": "assets/pose/P061/example-full.jpg",
         "example": "assets/pose/P061/example.jpg"
       },
-      "name": "跪坐整理铺开的裙摆"
+      "name": "跪坐整理铺开的裙摆",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "跪坐整理铺开的裙摆",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P062",
@@ -810,7 +1481,18 @@
         "example-full": "assets/pose/P062/example-full.jpg",
         "example": "assets/pose/P062/example.jpg"
       },
-      "name": "侧卧长凳肘撑起身"
+      "name": "侧卧长凳肘撑起身",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "侧卧长凳肘撑起身",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P063",
@@ -823,7 +1505,18 @@
         "example-full": "assets/pose/P063/example-full.jpg",
         "example": "assets/pose/P063/example.jpg"
       },
-      "name": "后仰接落花"
+      "name": "后仰接落花",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "后仰接落花",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P064",
@@ -836,7 +1529,18 @@
         "example-full": "assets/pose/P064/example-full.jpg",
         "example": "assets/pose/P064/example.jpg"
       },
-      "name": "盘腿抱膝仰头"
+      "name": "盘腿抱膝仰头",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "盘腿抱膝仰头",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P065",
@@ -849,7 +1553,18 @@
         "example-full": "assets/pose/P065/example-full.jpg",
         "example": "assets/pose/P065/example.jpg"
       },
-      "name": "肩夹合拢的油纸伞"
+      "name": "肩夹合拢的油纸伞",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "肩夹合拢的油纸伞",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P066",
@@ -862,7 +1577,18 @@
         "example-full": "assets/pose/P066/example-full.jpg",
         "example": "assets/pose/P066/example.jpg"
       },
-      "name": "屈肘将团扇举到眼下"
+      "name": "屈肘将团扇举到眼下",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "屈肘将团扇举到眼下",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P067",
@@ -875,7 +1601,18 @@
         "example-full": "assets/pose/P067/example-full.jpg",
         "example": "assets/pose/P067/example.jpg"
       },
-      "name": "掌心托花靠近鼻尖"
+      "name": "掌心托花靠近鼻尖",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "掌心托花靠近鼻尖",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P068",
@@ -888,7 +1625,18 @@
         "example-full": "assets/pose/P068/example-full.jpg",
         "example": "assets/pose/P068/example.jpg"
       },
-      "name": "反手将伞举过背后"
+      "name": "反手将伞举过背后",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "反手将伞举过背后",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P069",
@@ -901,7 +1649,18 @@
         "example-full": "assets/pose/P069/example-full.jpg",
         "example": "assets/pose/P069/example.jpg"
       },
-      "name": "双手撑开披帛"
+      "name": "双手撑开披帛",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手撑开披帛",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P070",
@@ -914,7 +1673,18 @@
         "example-full": "assets/pose/P070/example-full.jpg",
         "example": "assets/pose/P070/example.jpg"
       },
-      "name": "弯腰拢起一捧落叶"
+      "name": "弯腰拢起一捧落叶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "弯腰拢起一捧落叶",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P071",
@@ -927,7 +1697,18 @@
         "example-full": "assets/pose/P071/example-full.jpg",
         "example": "assets/pose/P071/example.jpg"
       },
-      "name": "将花枝别入发髻"
+      "name": "将花枝别入发髻",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "将花枝别入发髻",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P072",
@@ -940,7 +1721,18 @@
         "example-full": "assets/pose/P072/example-full.jpg",
         "example": "assets/pose/P072/example.jpg"
       },
-      "name": "背手藏花回望"
+      "name": "背手藏花回望",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "背手藏花回望",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P073",
@@ -953,7 +1745,18 @@
         "example-full": "assets/pose/P073/example-full.jpg",
         "example": "assets/pose/P073/example.jpg"
       },
-      "name": "用宽袖遮日抬眼"
+      "name": "用宽袖遮日抬眼",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "用宽袖遮日抬眼",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P074",
@@ -966,7 +1769,18 @@
         "example-full": "assets/pose/P074/example-full.jpg",
         "example": "assets/pose/P074/example.jpg"
       },
-      "name": "转身甩出披帛"
+      "name": "转身甩出披帛",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "转身甩出披帛",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P075",
@@ -979,7 +1793,18 @@
         "example-full": "assets/pose/P075/example-full.jpg",
         "example": "assets/pose/P075/example.jpg"
       },
-      "name": "蹲地拨陀螺"
+      "name": "蹲地拨陀螺",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "蹲地拨陀螺",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P076",
@@ -992,7 +1817,18 @@
         "example-full": "assets/pose/P076/example-full.jpg",
         "example": "assets/pose/P076/example.jpg"
       },
-      "name": "弯腰滚铁环"
+      "name": "弯腰滚铁环",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "弯腰滚铁环",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P077",
@@ -1005,7 +1841,18 @@
         "example-full": "assets/pose/P077/example-full.jpg",
         "example": "assets/pose/P077/example.jpg"
       },
-      "name": "侧倾扬手击鼓"
+      "name": "侧倾扬手击鼓",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "侧倾扬手击鼓",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P078",
@@ -1018,7 +1865,18 @@
         "example-full": "assets/pose/P078/example-full.jpg",
         "example": "assets/pose/P078/example.jpg"
       },
-      "name": "单手荡动流苏"
+      "name": "单手荡动流苏",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单手荡动流苏",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P079",
@@ -1031,7 +1889,18 @@
         "example-full": "assets/pose/P079/example-full.jpg",
         "example": "assets/pose/P079/example.jpg"
       },
-      "name": "俯身捞水中漂物"
+      "name": "俯身捞水中漂物",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "俯身捞水中漂物",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P080",
@@ -1044,7 +1913,18 @@
         "example-full": "assets/pose/P080/example-full.jpg",
         "example": "assets/pose/P080/example.jpg"
       },
-      "name": "伸肘投纸灯谜签"
+      "name": "伸肘投纸灯谜签",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "伸肘投纸灯谜签",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P081",
@@ -1057,7 +1937,18 @@
         "example-full": "assets/pose/P081/example-full.jpg",
         "example": "assets/pose/P081/example.jpg"
       },
-      "name": "回身接抛来的绣球"
+      "name": "回身接抛来的绣球",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "回身接抛来的绣球",
+      "pose_category": "户外游艺",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P082",
@@ -1070,7 +1961,18 @@
         "example-full": "assets/pose/P082/example-full.jpg",
         "example": "assets/pose/P082/example.jpg"
       },
-      "name": "挽袖井边提桶"
+      "name": "挽袖井边提桶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "挽袖井边提桶",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P083",
@@ -1083,7 +1985,18 @@
         "example-full": "assets/pose/P083/example-full.jpg",
         "example": "assets/pose/P083/example.jpg"
       },
-      "name": "扶车框下车"
+      "name": "扶车框下车",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "扶车框下车",
+      "pose_category": "出行",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P084",
@@ -1096,7 +2009,18 @@
         "example-full": "assets/pose/P084/example-full.jpg",
         "example": "assets/pose/P084/example.jpg"
       },
-      "name": "单膝着地装草药入篓"
+      "name": "单膝着地装草药入篓",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单膝着地装草药入篓",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P085",
@@ -1109,7 +2033,18 @@
         "example-full": "assets/pose/P085/example-full.jpg",
         "example": "assets/pose/P085/example.jpg"
       },
-      "name": "坐地推拉织机"
+      "name": "坐地推拉织机",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐地推拉织机",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P086",
@@ -1122,7 +2057,18 @@
         "example-full": "assets/pose/P086/example-full.jpg",
         "example": "assets/pose/P086/example.jpg"
       },
-      "name": "前屈研墨"
+      "name": "前屈研墨",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "前屈研墨",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P087",
@@ -1135,7 +2081,18 @@
         "example-full": "assets/pose/P087/example-full.jpg",
         "example": "assets/pose/P087/example.jpg"
       },
-      "name": "双掌揉面"
+      "name": "双掌揉面",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双掌揉面",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P088",
@@ -1148,7 +2105,18 @@
         "example-full": "assets/pose/P088/example-full.jpg",
         "example": "assets/pose/P088/example.jpg"
       },
-      "name": "双腿夹陶轮拉坯"
+      "name": "双腿夹陶轮拉坯",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双腿夹陶轮拉坯",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P089",
@@ -1161,7 +2129,18 @@
         "example-full": "assets/pose/P089/example-full.jpg",
         "example": "assets/pose/P089/example.jpg"
       },
-      "name": "双手怀抱陶罐"
+      "name": "双手怀抱陶罐",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手怀抱陶罐",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P090",
@@ -1174,7 +2153,18 @@
         "example-full": "assets/pose/P090/example-full.jpg",
         "example": "assets/pose/P090/example.jpg"
       },
-      "name": "翻腕悬壶斟茶"
+      "name": "翻腕悬壶斟茶",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "翻腕悬壶斟茶",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P091",
@@ -1187,7 +2177,18 @@
         "example-full": "assets/pose/P091/example-full.jpg",
         "example": "assets/pose/P091/example.jpg"
       },
-      "name": "提袖夹菜"
+      "name": "提袖夹菜",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "提袖夹菜",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P092",
@@ -1200,7 +2201,18 @@
         "example-full": "assets/pose/P092/example-full.jpg",
         "example": "assets/pose/P092/example.jpg"
       },
-      "name": "单膝跪地摆放棋盘"
+      "name": "单膝跪地摆放棋盘",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单膝跪地摆放棋盘",
+      "pose_category": "生活劳作",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P093",
@@ -1213,7 +2225,18 @@
         "example-full": "assets/pose/P093/example-full.jpg",
         "example": "assets/pose/P093/example.jpg"
       },
-      "name": "牵手并行回头"
+      "name": "牵手并行回头",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "牵手并行回头",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P094",
@@ -1226,7 +2249,18 @@
         "example-full": "assets/pose/P094/example-full.jpg",
         "example": "assets/pose/P094/example.jpg"
       },
-      "name": "并肩共撑一柄伞"
+      "name": "并肩共撑一柄伞",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "并肩共撑一柄伞",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P095",
@@ -1239,7 +2273,18 @@
         "example-full": "assets/pose/P095/example-full.jpg",
         "example": "assets/pose/P095/example.jpg"
       },
-      "name": "背靠背双手抱肩"
+      "name": "背靠背双手抱肩",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "背靠背双手抱肩",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P096",
@@ -1252,7 +2297,18 @@
         "example-full": "assets/pose/P096/example-full.jpg",
         "example": "assets/pose/P096/example.jpg"
       },
-      "name": "双人隔栏碰杯"
+      "name": "双人隔栏碰杯",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双人隔栏碰杯",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P097",
@@ -1265,7 +2321,18 @@
         "example-full": "assets/pose/P097/example-full.jpg",
         "example": "assets/pose/P097/example.jpg"
       },
-      "name": "骑马者向地面伙伴伸手"
+      "name": "骑马者向地面伙伴伸手",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "骑马者向地面伙伴伸手",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P098",
@@ -1278,7 +2345,18 @@
         "example-full": "assets/pose/P098/example-full.jpg",
         "example": "assets/pose/P098/example.jpg"
       },
-      "name": "前后相随拉袖口"
+      "name": "前后相随拉袖口",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "前后相随拉袖口",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P099",
@@ -1291,7 +2369,18 @@
         "example-full": "assets/pose/P099/example-full.jpg",
         "example": "assets/pose/P099/example.jpg"
       },
-      "name": "跪坐者给站立者别花"
+      "name": "跪坐者给站立者别花",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "跪坐者给站立者别花",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P100",
@@ -1304,7 +2393,18 @@
         "example-full": "assets/pose/P100/example-full.jpg",
         "example": "assets/pose/P100/example.jpg"
       },
-      "name": "同坐石阶互相倚肩"
+      "name": "同坐石阶互相倚肩",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "同坐石阶互相倚肩",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P101",
@@ -1317,7 +2417,18 @@
         "example-full": "assets/pose/P101/example-full.jpg",
         "example": "assets/pose/P101/example.jpg"
       },
-      "name": "隔圆窗伸手接花"
+      "name": "隔圆窗伸手接花",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "隔圆窗伸手接花",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P102",
@@ -1330,7 +2441,18 @@
         "example-full": "assets/pose/P102/example-full.jpg",
         "example": "assets/pose/P102/example.jpg"
       },
-      "name": "错阶松坐"
+      "name": "错阶松坐",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "侧坐在台阶边，两脚踩不同高度，前臂轻搭较高的膝盖。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P103",
@@ -1343,7 +2465,18 @@
         "example-full": "assets/pose/P103/example-full.jpg",
         "example": "assets/pose/P103/example.jpg"
       },
-      "name": "反坐倚椅背"
+      "name": "反坐倚椅背",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "反坐木椅，双前臂叠搭椅背顶，头转向一侧。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P104",
@@ -1356,7 +2489,18 @@
         "example-full": "assets/pose/P104/example-full.jpg",
         "example": "assets/pose/P104/example.jpg"
       },
-      "name": "交握侧伸懒腰"
+      "name": "交握侧伸懒腰",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手在头顶交握，上身侧弯，双脚站稳。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P105",
@@ -1369,7 +2513,18 @@
         "example-full": "assets/pose/P105/example-full.jpg",
         "example": "assets/pose/P105/example.jpg"
       },
-      "name": "撑桌双手捧脸"
+      "name": "撑桌双手捧脸",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双肘撑桌，掌心托住两侧脸颊，头微倾。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P106",
@@ -1382,7 +2537,18 @@
         "example-full": "assets/pose/P106/example-full.jpg",
         "example": "assets/pose/P106/example.jpg"
       },
-      "name": "带袍跨门槛"
+      "name": "带袍跨门槛",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "前脚跨过低门槛，后手将外袍向侧后方带开。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P107",
@@ -1395,7 +2561,18 @@
         "example-full": "assets/pose/P107/example-full.jpg",
         "example": "assets/pose/P107/example.jpg"
       },
-      "name": "行走拢披风"
+      "name": "行走拢披风",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "迈步时双手拢住肩头和胸前的披风领口，披风下摆向外展开。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P108",
@@ -1408,7 +2585,18 @@
         "example-full": "assets/pose/P108/example-full.jpg",
         "example": "assets/pose/P108/example.jpg"
       },
-      "name": "半转身伸掌"
+      "name": "半转身伸掌",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "上身半转，一臂向前伸出，掌心向上，另一手垂在腰侧。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P109",
@@ -1421,7 +2609,18 @@
         "example-full": "assets/pose/P109/example-full.jpg",
         "example": "assets/pose/P109/example.jpg"
       },
-      "name": "跪坐伏案小憩"
+      "name": "跪坐伏案小憩",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "跪坐在矮案前，双臂叠在案面，脸颊轻靠前臂。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P110",
@@ -1434,7 +2633,18 @@
         "example-full": "assets/pose/P110/example-full.jpg",
         "example": "assets/pose/P110/example.jpg"
       },
-      "name": "一人系鞋一人俯看"
+      "name": "一人系鞋一人俯看",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一人坐凳弯腰系鞋，另一人站在旁边俯身看。",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P111",
@@ -1447,7 +2657,18 @@
         "example-full": "assets/pose/P111/example-full.jpg",
         "example": "assets/pose/P111/example.jpg"
       },
-      "name": "双人系披风"
+      "name": "双人系披风",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "两人相对站立，一人系领结，披风穿着者分扶两侧。",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P112",
@@ -1460,7 +2681,18 @@
         "example-full": "assets/pose/P112/example-full.jpg",
         "example": "assets/pose/P112/example.jpg"
       },
-      "name": "席地伸腿后撑"
+      "name": "席地伸腿后撑",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐地向前伸腿，两腿并拢，双掌在身后撑地。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P113",
@@ -1473,7 +2705,18 @@
         "example-full": "assets/pose/P113/example-full.jpg",
         "example": "assets/pose/P113/example.jpg"
       },
-      "name": "侧弓步拢袍"
+      "name": "侧弓步拢袍",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "重心移向屈膝一侧，另一腿侧伸，双手在腰前拢住外袍。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P114",
@@ -1486,7 +2729,18 @@
         "example-full": "assets/pose/P114/example-full.jpg",
         "example": "assets/pose/P114/example.jpg"
       },
-      "name": "单脚提跟平衡"
+      "name": "单脚提跟平衡",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "单脚站定，另一腿后屈，同侧手轻扶鞋跟，另一臂侧伸。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P115",
@@ -1499,7 +2753,18 @@
         "example-full": "assets/pose/P115/example-full.jpg",
         "example": "assets/pose/P115/example.jpg"
       },
-      "name": "双手把玩长辫"
+      "name": "双手把玩长辫",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双手轻握落在胸前的辫子，肩线略侧转，微微低头。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P116",
@@ -1512,7 +2777,18 @@
         "example-full": "assets/pose/P116/example-full.jpg",
         "example": "assets/pose/P116/example.jpg"
       },
-      "name": "指圈单眼取景"
+      "name": "指圈单眼取景",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "拇指和食指围成小圈放在一眼前，另一臂横搭腰前，头略歪。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P117",
@@ -1525,7 +2801,18 @@
         "example-full": "assets/pose/P117/example-full.jpg",
         "example": "assets/pose/P117/example.jpg"
       },
-      "name": "隔桌比腕力"
+      "name": "隔桌比腕力",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "两人相对坐定，各用一肘撑桌，握手定格在桌面中央。",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P118",
@@ -1538,7 +2825,18 @@
         "example-full": "assets/pose/P118/example-full.jpg",
         "example": "assets/pose/P118/example.jpg"
       },
-      "name": "踮脚附耳说悄悄话"
+      "name": "踮脚附耳说悄悄话",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一人踮脚，以手拢住嘴边靠近同伴耳侧，同伴轻倾头聆听。",
+      "pose_category": "双人互动",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P119",
@@ -1551,7 +2849,18 @@
         "example-full": "assets/pose/P119/example-full.jpg",
         "example": "assets/pose/P119/example.jpg"
       },
-      "name": "单膝立起后撑坐"
+      "name": "单膝立起后撑坐",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "席地坐，双手后撑，一膝立起，另一腿向前伸。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P120",
@@ -1564,7 +2873,18 @@
         "example-full": "assets/pose/P120/example-full.jpg",
         "example": "assets/pose/P120/example.jpg"
       },
-      "name": "抱膝斜侧坐"
+      "name": "抱膝斜侧坐",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "双膝并拢斜向一侧，双手轻环膝部。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P121",
@@ -1577,7 +2897,18 @@
         "example-full": "assets/pose/P121/example-full.jpg",
         "example": "assets/pose/P121/example.jpg"
       },
-      "name": "曲膝坐抚发"
+      "name": "曲膝坐抚发",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一膝立起，一手抚向鬓边，另一手搭膝。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P122",
@@ -1590,7 +2921,18 @@
         "example-full": "assets/pose/P122/example-full.jpg",
         "example": "assets/pose/P122/example.jpg"
       },
-      "name": "席地扭身回望"
+      "name": "席地扭身回望",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "坐姿保持下身稳定，肩腰转向身后，一手撑地。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P123",
@@ -1603,7 +2945,18 @@
         "example-full": "assets/pose/P123/example-full.jpg",
         "example": "assets/pose/P123/example.jpg"
       },
-      "name": "背身越肩回眸"
+      "name": "背身越肩回眸",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "背身站定，头越过一侧肩膀向后回看。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P124",
@@ -1616,7 +2969,18 @@
         "example-full": "assets/pose/P124/example-full.jpg",
         "example": "assets/pose/P124/example.jpg"
       },
-      "name": "食指抵唇"
+      "name": "食指抵唇",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "一指竖在唇前，头部略转，另一臂自然下垂。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P125",
@@ -1629,7 +2993,18 @@
         "example-full": "assets/pose/P125/example-full.jpg",
         "example": "assets/pose/P125/example.jpg"
       },
-      "name": "双手框景"
+      "name": "双手框景",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "用两手拇指与食指组成取景框，抬至眼前。",
+      "pose_category": "俏皮随拍",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P126",
@@ -1642,7 +3017,18 @@
         "example-full": "assets/pose/P126/example-full.jpg",
         "example": "assets/pose/P126/example.jpg"
       },
-      "name": "抬手耳后别发"
+      "name": "抬手耳后别发",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "轻转头，一手将鬓发顺到耳后，另一手放松。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P127",
@@ -1655,7 +3041,18 @@
         "example-full": "assets/pose/P127/example-full.jpg",
         "example": "assets/pose/P127/example.jpg"
       },
-      "name": "侧身垂扇拢襟"
+      "name": "侧身垂扇拢襟",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "侧身回望，右手垂扇、左手拢襟。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P128",
@@ -1668,7 +3065,18 @@
         "example-full": "assets/pose/P128/example-full.jpg",
         "example": "assets/pose/P128/example.jpg"
       },
-      "name": "侧身看景持团扇"
+      "name": "侧身看景持团扇",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "头侧向一旁，右手在胸前持扇，左臂自然垂落。左脚斜向前半步，右脚在后承重，双脚落地。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P129",
@@ -1681,7 +3089,18 @@
         "example-full": "assets/pose/P129/example-full.jpg",
         "example": "assets/pose/P129/example.jpg"
       },
-      "name": "双手轻持团扇"
+      "name": "双手轻持团扇",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "右手握扇，左手轻扶柄尾，扇面位于胸前。左脚斜向前半步，右脚在后承重，双脚落地。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "P130",
@@ -1694,7 +3113,18 @@
         "example-full": "assets/pose/P130/example-full.jpg",
         "example": "assets/pose/P130/example.jpg"
       },
-      "name": "正面搭腕错步站立"
+      "name": "正面搭腕错步站立",
+      "kind": "pose",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "左手轻搭右腕，右手放松下垂，双脚前后错落。",
+      "pose_category": "日常拍照",
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": null,
+      "seasons": []
     }
   ]
 }

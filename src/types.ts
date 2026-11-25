@@ -1,5 +1,5 @@
 export type Kind = 'pose' | 'inner' | 'costume' | 'head';
-export type Angle = 'front' | 'diag' | 'side' | 'back';
+export type Angle = 'front' | 'diag' | 'side' | 'back' | 'high' | 'low';
 export type ReferenceItem = {
   id: string;
   kind: Kind;
@@ -26,19 +26,21 @@ export type ReferenceItem = {
   summary: string;
   description: string;
   status: string;
-  review: string;
+  review?: string;
   prompt?: string;
+  example?: string;
+  exampleFull?: string;
   view_files: Partial<Record<Angle, string>>;
 };
 export type Choice = { item: ReferenceItem; angle: Angle };
-export type ChoiceSlot = 'pose' | 'inner' | 'costume' | 'hairstyle' | 'headwear';
+export type ChoiceSlot = 'pose' | 'costume' | 'head';
 export type ReferenceChoices = Partial<Record<ChoiceSlot, Choice>>;
-export const choiceSlots: ChoiceSlot[] = ['pose', 'inner', 'costume', 'hairstyle', 'headwear'];
-export const slotLabels: Record<ChoiceSlot, string> = { pose: '姿势', inner: '内衣内衬', costume: '服装', hairstyle: '发型', headwear: '头饰' };
-export const choiceSlot = (item: ReferenceItem): ChoiceSlot => item.kind === 'head' ? item.head_type || 'hairstyle' : item.kind;
+export const choiceSlots: ChoiceSlot[] = ['pose', 'costume', 'head'];
+export const slotLabels: Record<ChoiceSlot, string> = { pose: '姿势', costume: '服饰', head: '发型配饰' };
+export const choiceSlot = (item: ReferenceItem): ChoiceSlot => item.kind === 'inner' ? 'costume' : item.kind;
 export const matchesEra = (item: ReferenceItem, era: string) => era === 'all' || item.era === era || (item.era === '通用' && (!item.applicable_eras || item.applicable_eras.includes(era)));
 export const kindLabels: Record<Kind, string> = { pose: '姿势', inner: '内衣内衬', costume: '服装', head: '发型头饰' };
-export const viewLabels: Record<Angle, string> = { front: '正面', diag: '斜侧', side: '侧面', back: '背面' };
+export const viewLabels: Record<Angle, string> = { front: '正面', diag: '斜侧', side: '侧面', back: '背面', high: '俯拍', low: '仰拍' };
 export const angles = Object.keys(viewLabels) as Angle[];
 export const assetUrl = (path: string) => `${import.meta.env.BASE_URL}${path}`;
 export const isPureHead = (item: ReferenceItem) => item.presentation === 'headwear-only' || item.presentation === 'hair-only';
@@ -53,3 +55,6 @@ export const categoryOf = (item: ReferenceItem) => {
   if (item.name.includes('坐')) return '坐姿';
   return '其他';
 };
+
+export const poseAngles: Angle[] = ['front', 'high', 'low', 'side', 'diag'];
+export const assetAngles: Angle[] = ['front', 'diag', 'side', 'back'];

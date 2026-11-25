@@ -11,7 +11,17 @@
         "side": "assets/costume/C001/side.png",
         "back": "assets/costume/C001/back.png"
       },
-      "name": "汉风·绕襟日常长衣"
+      "name": "汉风·绕襟日常长衣",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "赭红长衣 · 深色宽缘",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C002",
@@ -22,7 +32,21 @@
         "side": "assets/costume/C002-garment-only/side.png",
         "back": "assets/costume/C002-garment-only/back.png"
       },
-      "name": "唐风女式·半臂对襟外衫与长裙"
+      "name": "唐风女式·半臂对襟外衫与长裙",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 半臂对襟外衫与长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C003",
@@ -33,7 +57,20 @@
         "side": "assets/costume/C003/side.png",
         "back": "assets/costume/C003/back.png"
       },
-      "name": "明风女式·立领对襟长袄与褶裙"
+      "name": "明风女式·立领对襟长袄与褶裙",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 立领对襟长袄与褶裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常袄裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C004",
@@ -44,7 +81,19 @@
         "side": "assets/costume/C004/side.png",
         "back": "assets/costume/C004/back.png"
       },
-      "name": "汉风·宽袖交领长袍"
+      "name": "汉风·宽袖交领长袍",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "深蓝长袍 · 浅棕镶边",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C005",
@@ -55,7 +104,21 @@
         "side": "assets/costume/C005/side.png",
         "back": "assets/costume/C005/back.png"
       },
-      "name": "明风男式·交领大袖长袍"
+      "name": "明风男式·交领大袖长袍",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 交领大袖长袍 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C006",
@@ -66,7 +129,19 @@
         "side": "assets/costume/C006/side.png",
         "back": "assets/costume/C006/back.png"
       },
-      "name": "汉风·短襦与长裙"
+      "name": "汉风·短襦与长裙",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "素色短衣 · 深绿长裙 · 搭配深紫布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C007",
@@ -77,7 +152,19 @@
         "side": "assets/costume/C007/side.png",
         "back": "assets/costume/C007/back.png"
       },
-      "name": "明风女式·交领短衫与褶裙"
+      "name": "明风女式·交领短衫与褶裙",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 交领短衫与褶裙 · 搭配深蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常袄裙",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C008",
@@ -88,7 +175,25 @@
         "side": "assets/costume/C008/side.png",
         "back": "assets/costume/C008/back.png"
       },
-      "name": "通用男式·交领劳动短衣与直裤"
+      "name": "通用男式·交领劳动短衣与直裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "汉",
+        "明"
+      ],
+      "summary": "纯服装 · 交领劳动短衣与直裤 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C009",
@@ -99,7 +204,19 @@
         "side": "assets/costume/C009/side.png",
         "back": "assets/costume/C009/back.png"
       },
-      "name": "汉风·薄罩衫叠裙（创作款）"
+      "name": "汉风·薄罩衫叠裙（创作款）",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "春季题材 · AI 原创设计 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "春"
+      ]
     },
     {
       "id": "C010",
@@ -110,7 +227,19 @@
         "side": "assets/costume/C010/side.png",
         "back": "assets/costume/C010/back.png"
       },
-      "name": "汉风·长襦叠穿衫裙"
+      "name": "汉风·长襦叠穿衫裙",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "秋季题材 · AI 原创设计",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C011",
@@ -121,7 +250,19 @@
         "side": "assets/costume/C011-recrop/side.png",
         "back": "assets/costume/C011-recrop/back.png"
       },
-      "name": "汉风·保暖长襦与裙"
+      "name": "汉风·保暖长襦与裙",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "冬季题材 · AI 原创设计 · 搭配深红布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C012",
@@ -132,7 +273,20 @@
         "side": "assets/costume/C012/side.png",
         "back": "assets/costume/C012/back.png"
       },
-      "name": "汉风·宽袖长衣叠穿"
+      "name": "汉风·宽袖长衣叠穿",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "春季题材 · AI 原创设计",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C013",
@@ -143,7 +297,19 @@
         "side": "assets/costume/C013-recrop/side.png",
         "back": "assets/costume/C013-recrop/back.png"
       },
-      "name": "汉风·保暖长衣叠穿"
+      "name": "汉风·保暖长衣叠穿",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "冬季题材 · AI 原创设计 · 搭配深色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C014",
@@ -154,7 +320,20 @@
         "side": "assets/costume/C014-garment-only/side.png",
         "back": "assets/costume/C014-garment-only/back.png"
       },
-      "name": "唐风女式·短对襟大袖裙装"
+      "name": "唐风女式·短对襟大袖裙装",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短对襟大袖裙装 · 搭配浅桃色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C015",
@@ -165,7 +344,19 @@
         "side": "assets/costume/C015-garment-only/side.png",
         "back": "assets/costume/C015-garment-only/back.png"
       },
-      "name": "唐风女式·长外套叠穿裙装"
+      "name": "唐风女式·长外套叠穿裙装",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 长外套叠穿裙装 · 搭配深红布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C016",
@@ -176,7 +367,19 @@
         "side": "assets/costume/C016/side.png",
         "back": "assets/costume/C016/back.png"
       },
-      "name": "明风女式·保暖长袄与裙"
+      "name": "明风女式·保暖长袄与裙",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 保暖长袄与裙 · 搭配深蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常袄裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C017",
@@ -187,7 +390,19 @@
         "side": "assets/costume/C017/side.png",
         "back": "assets/costume/C017/back.png"
       },
-      "name": "明风男式·窄袖长袍"
+      "name": "明风男式·窄袖长袍",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 窄袖长袍 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长袍",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C018",
@@ -198,7 +413,19 @@
         "side": "assets/costume/C018/side.png",
         "back": "assets/costume/C018/back.png"
       },
-      "name": "明风男式·保暖交领长袍"
+      "name": "明风男式·保暖交领长袍",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 保暖交领长袍 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长袍",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C019",
@@ -209,7 +436,24 @@
         "side": "assets/costume/C019-song-pure/side.png",
         "back": "assets/costume/C019-song-pure/back.png"
       },
-      "name": "通用女式·侧系短衫与褶裙"
+      "name": "通用女式·侧系短衫与褶裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元"
+      ],
+      "summary": "纯服装 · 侧系短衫与褶裙 · 搭配蓝灰布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C020",
@@ -220,7 +464,24 @@
         "side": "assets/costume/C020-song-pure/side.png",
         "back": "assets/costume/C020-song-pure/back.png"
       },
-      "name": "通用男式·束腰短衫与收脚宽裤"
+      "name": "通用男式·束腰短衫与收脚宽裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元"
+      ],
+      "summary": "纯服装 · 束腰短衫与收脚宽裤 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C021",
@@ -231,7 +492,22 @@
         "side": "assets/costume/C021-song-pure/side.png",
         "back": "assets/costume/C021-song-pure/back.png"
       },
-      "name": "宋风女式·深青红缘翟纹长礼服（影视参考）"
+      "name": "宋风女式·深青红缘翟纹长礼服（影视参考）",
+      "era": "宋",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 深青红缘翟纹长礼服（影视参考） · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C022",
@@ -242,7 +518,21 @@
         "side": "assets/costume/C022-song-pure/side.png",
         "back": "assets/costume/C022-song-pure/back.png"
       },
-      "name": "宋风男式·圆领宽袖公服袍（创作款）"
+      "name": "宋风男式·圆领宽袖公服袍（创作款）",
+      "era": "宋",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领宽袖公服袍（创作款） · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C023",
@@ -253,7 +543,21 @@
         "side": "assets/costume/C023-song-pure/side.png",
         "back": "assets/costume/C023-song-pure/back.png"
       },
-      "name": "宋风男式·束腕行旅短装（创作款）"
+      "name": "宋风男式·束腕行旅短装（创作款）",
+      "era": "宋",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 束腕行旅短装（创作款） · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅短装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C024",
@@ -264,7 +568,20 @@
         "side": "assets/costume/C024-song-pure/side.png",
         "back": "assets/costume/C024-song-pure/back.png"
       },
-      "name": "宋风女式·背心叠穿衫裙"
+      "name": "宋风女式·背心叠穿衫裙",
+      "era": "宋",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 背心叠穿衫裙 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C025",
@@ -275,7 +592,21 @@
         "side": "assets/costume/C025-song-pure/side.png",
         "back": "assets/costume/C025-song-pure/back.png"
       },
-      "name": "宋风女式·对襟长衫与裙"
+      "name": "宋风女式·对襟长衫与裙",
+      "era": "宋",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 对襟长衫与裙 · 搭配粉色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "对襟长衫裙装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C026",
@@ -286,7 +617,19 @@
         "side": "assets/costume/C026-song-pure/side.png",
         "back": "assets/costume/C026-song-pure/back.png"
       },
-      "name": "宋风男式·绗缝保暖长衣与裤"
+      "name": "宋风男式·绗缝保暖长衣与裤",
+      "era": "宋",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 绗缝保暖长衣与裤 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C027",
@@ -297,7 +640,21 @@
         "side": "assets/costume/C027-garment-only/side.png",
         "back": "assets/costume/C027-garment-only/back.png"
       },
-      "name": "唐风男式·短圆领工作衣"
+      "name": "唐风男式·短圆领工作衣",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短圆领工作衣 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C028",
@@ -308,7 +665,20 @@
         "side": "assets/costume/C028-garment-only/side.png",
         "back": "assets/costume/C028-garment-only/back.png"
       },
-      "name": "唐风男式·纹饰宽袖礼袍"
+      "name": "唐风男式·纹饰宽袖礼袍",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 纹饰宽袖礼袍 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C029",
@@ -319,7 +689,19 @@
         "side": "assets/costume/C029-song-pure/side.png",
         "back": "assets/costume/C029-song-pure/back.png"
       },
-      "name": "宋风男式·开襟层叠宫廷袍（创作款）"
+      "name": "宋风男式·开襟层叠宫廷袍（创作款）",
+      "era": "宋",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 开襟层叠宫廷袍（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春"
+      ]
     },
     {
       "id": "C030",
@@ -330,7 +712,20 @@
         "side": "assets/costume/C030-ming-pure/side.png",
         "back": "assets/costume/C030-ming-pure/back.png"
       },
-      "name": "明风男式·开襟层叠宫廷袍（创作款）"
+      "name": "明风男式·开襟层叠宫廷袍（创作款）",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 开襟层叠宫廷袍（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C031",
@@ -341,7 +736,19 @@
         "side": "assets/costume/C031-song-pure/side.png",
         "back": "assets/costume/C031-song-pure/back.png"
       },
-      "name": "宋风男式·圆领宽袖宫廷袍（创作款）"
+      "name": "宋风男式·圆领宽袖宫廷袍（创作款）",
+      "era": "宋",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领宽袖宫廷袍（创作款） · 搭配深色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C032",
@@ -352,7 +759,20 @@
         "side": "assets/costume/C032-ming-pure/side.png",
         "back": "assets/costume/C032-ming-pure/back.png"
       },
-      "name": "明风男式·圆领团纹宫廷袍（创作款）"
+      "name": "明风男式·圆领团纹宫廷袍（创作款）",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领团纹宫廷袍（创作款） · 影视配色参考 · 搭配黑色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷常服",
+      "season_scope": null,
+      "seasons": [
+        "夏",
+        "冬"
+      ]
     },
     {
       "id": "C033",
@@ -363,7 +783,20 @@
         "side": "assets/costume/C033-garment-only/side.png",
         "back": "assets/costume/C033-garment-only/back.png"
       },
-      "name": "唐风女式·宫廷礼仪长裙"
+      "name": "唐风女式·宫廷礼仪长裙",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 宫廷礼仪长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C034",
@@ -374,7 +807,19 @@
         "side": "assets/costume/C034-garment-only/side.png",
         "back": "assets/costume/C034-garment-only/back.png"
       },
-      "name": "唐风女式·礼仪长披风裙装"
+      "name": "唐风女式·礼仪长披风裙装",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 礼仪长披风裙装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C035",
@@ -385,7 +830,20 @@
         "side": "assets/costume/C035-garment-only/side.png",
         "back": "assets/costume/C035-garment-only/back.png"
       },
-      "name": "唐风女式·长外衫披帛裙装"
+      "name": "唐风女式·长外衫披帛裙装",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 长外衫披帛裙装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C036",
@@ -396,7 +854,20 @@
         "side": "assets/costume/C036-garment-only/side.png",
         "back": "assets/costume/C036-garment-only/back.png"
       },
-      "name": "唐风男式·紫色层叠缘饰礼袍（创作款）"
+      "name": "唐风男式·紫色层叠缘饰礼袍（创作款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 层叠缘饰礼袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C037",
@@ -407,7 +878,20 @@
         "side": "assets/costume/C037-garment-only/side.png",
         "back": "assets/costume/C037-garment-only/back.png"
       },
-      "name": "唐风女式·轻罩衫叠穿"
+      "name": "唐风女式·轻罩衫叠穿",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻罩衫叠穿 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C038",
@@ -418,7 +902,20 @@
         "side": "assets/costume/C038-garment-only/side.png",
         "back": "assets/costume/C038-garment-only/back.png"
       },
-      "name": "唐风女式·高腰衫裙"
+      "name": "唐风女式·高腰衫裙",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 高腰衫裙 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C039",
@@ -429,7 +926,20 @@
         "side": "assets/costume/C039-garment-only/side.png",
         "back": "assets/costume/C039-garment-only/back.png"
       },
-      "name": "唐风女式·中长对襟外衫"
+      "name": "唐风女式·中长对襟外衫",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 中长对襟外衫 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C040",
@@ -440,7 +950,19 @@
         "side": "assets/costume/C040-garment-only/side.png",
         "back": "assets/costume/C040-garment-only/back.png"
       },
-      "name": "唐风女式·朴素长披风裙装"
+      "name": "唐风女式·朴素长披风裙装",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 朴素长披风裙装 · 搭配米白布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C041",
@@ -451,7 +973,20 @@
         "side": "assets/costume/C041-garment-only/side.png",
         "back": "assets/costume/C041-garment-only/back.png"
       },
-      "name": "唐风男式·紫色圆领宽袖长袍（创作款）"
+      "name": "唐风男式·紫色圆领宽袖长袍（创作款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "紫色圆领宽袖长袍 · 影视配色参考 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C042",
@@ -462,7 +997,20 @@
         "side": "assets/costume/C042-garment-only/side.png",
         "back": "assets/costume/C042-garment-only/back.png"
       },
-      "name": "唐风男式·肩甲重甲装"
+      "name": "唐风男式·肩甲重甲装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 肩甲重甲装 · 搭配深棕靴",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅重甲",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C043",
@@ -473,7 +1021,20 @@
         "side": "assets/costume/C043-garment-only/side.png",
         "back": "assets/costume/C043-garment-only/back.png"
       },
-      "name": "唐风男式·短袖轻甲装"
+      "name": "唐风男式·短袖轻甲装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短袖轻甲装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅轻甲",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C044",
@@ -484,7 +1045,19 @@
         "side": "assets/costume/C044-garment-only/side.png",
         "back": "assets/costume/C044-garment-only/back.png"
       },
-      "name": "唐风男式·披风甲衣"
+      "name": "唐风男式·披风甲衣",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 披风甲衣 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅轻甲",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C045",
@@ -495,7 +1068,20 @@
         "side": "assets/costume/C045-garment-only/side.png",
         "back": "assets/costume/C045-garment-only/back.png"
       },
-      "name": "唐风男式·护臂窄袖装备装"
+      "name": "唐风男式·护臂窄袖装备装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 护臂窄袖装备装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "护卫装备",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C046",
@@ -506,7 +1092,20 @@
         "side": "assets/costume/C046-garment-only/side.png",
         "back": "assets/costume/C046-garment-only/back.png"
       },
-      "name": "唐风男式·长半袖罩衫叠穿"
+      "name": "唐风男式·长半袖罩衫叠穿",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 长半袖罩衫叠穿 · 搭配浅蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C047",
@@ -517,7 +1116,20 @@
         "side": "assets/costume/C047-garment-only/side.png",
         "back": "assets/costume/C047-garment-only/back.png"
       },
-      "name": "唐风男式·短半袖外搭劳动服"
+      "name": "唐风男式·短半袖外搭劳动服",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短半袖外搭劳动服 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短罩衫劳动装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C048",
@@ -528,7 +1140,21 @@
         "side": "assets/costume/C048-garment-only/side.png",
         "back": "assets/costume/C048-garment-only/back.png"
       },
-      "name": "唐风男式·半袖罩衫与绑腿裤装"
+      "name": "唐风男式·半袖罩衫与绑腿裤装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 半袖罩衫与绑腿裤装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短罩衫劳动装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C049",
@@ -539,7 +1165,20 @@
         "side": "assets/costume/C049-garment-only/side.png",
         "back": "assets/costume/C049-garment-only/back.png"
       },
-      "name": "唐风男式·腰围裙工作装"
+      "name": "唐风男式·腰围裙工作装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 腰围裙工作装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "围裙劳作装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C050",
@@ -550,7 +1189,19 @@
         "side": "assets/costume/C050-garment-only/side.png",
         "back": "assets/costume/C050-garment-only/back.png"
       },
-      "name": "唐风男式·胸围裙工作装"
+      "name": "唐风男式·胸围裙工作装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 胸围裙工作装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "围裙劳作装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C051",
@@ -561,7 +1212,20 @@
         "side": "assets/costume/C051-garment-only/side.png",
         "back": "assets/costume/C051-garment-only/back.png"
       },
-      "name": "唐风男式·长外套便服"
+      "name": "唐风男式·长外套便服",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 长外套便服 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衣便服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C052",
@@ -572,7 +1236,20 @@
         "side": "assets/costume/C052-garment-only-v2/side.png",
         "back": "assets/costume/C052-garment-only-v2/back.png"
       },
-      "name": "唐风男式·宽袖缘饰道袍"
+      "name": "唐风男式·宽袖缘饰道袍",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 宽袖缘饰道袍 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C053",
@@ -583,7 +1260,20 @@
         "side": "assets/costume/C053-garment-only/side.png",
         "back": "assets/costume/C053-garment-only/back.png"
       },
-      "name": "唐风女式·交领衫裙裤"
+      "name": "唐风女式·交领衫裙裤",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 交领衫裙裤 · 搭配灰蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "交领衫裙裤",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C054",
@@ -594,7 +1284,20 @@
         "side": "assets/costume/C054-garment-only/side.png",
         "back": "assets/costume/C054-garment-only/back.png"
       },
-      "name": "唐风男式·彩饰长外衫叠穿"
+      "name": "唐风男式·彩饰长外衫叠穿",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 彩饰长外衫叠穿",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C055",
@@ -605,7 +1308,20 @@
         "side": "assets/costume/C055-garment-only/side.png",
         "back": "assets/costume/C055-garment-only/back.png"
       },
-      "name": "唐风女式·短半臂披帛演出款"
+      "name": "唐风女式·短半臂披帛演出款",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短半臂披帛演出款 · 搭配珊瑚红布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C056",
@@ -616,7 +1332,20 @@
         "side": "assets/costume/C056-garment-only/side.png",
         "back": "assets/costume/C056-garment-only/back.png"
       },
-      "name": "唐风女式·中长半臂演出叠穿"
+      "name": "唐风女式·中长半臂演出叠穿",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 中长半臂演出叠穿 · 搭配深红布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C057",
@@ -627,7 +1356,19 @@
         "side": "assets/costume/C057-garment-only/side.png",
         "back": "assets/costume/C057-garment-only/back.png"
       },
-      "name": "唐风男式·毛领长披风长装"
+      "name": "唐风男式·毛领长披风长装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 毛领长披风长装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衣便服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C058",
@@ -638,7 +1379,21 @@
         "side": "assets/costume/C058-garment-only/side.png",
         "back": "assets/costume/C058-garment-only/back.png"
       },
-      "name": "唐风女式·朴素交领襦裙"
+      "name": "唐风女式·朴素交领襦裙",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 朴素交领襦裙 · 搭配蓝色布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C059",
@@ -649,7 +1404,19 @@
         "side": "assets/costume/C059-garment-only/side.png",
         "back": "assets/costume/C059-garment-only/back.png"
       },
-      "name": "唐风儿童男春季外衣"
+      "name": "唐风儿童男春季外衣",
+      "era": "唐",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童男春季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "春"
+      ]
     },
     {
       "id": "C060",
@@ -660,7 +1427,19 @@
         "side": "assets/costume/C060-garment-only/side.png",
         "back": "assets/costume/C060-garment-only/back.png"
       },
-      "name": "唐风儿童男夏季外衣"
+      "name": "唐风儿童男夏季外衣",
+      "era": "唐",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童男夏季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C061",
@@ -671,7 +1450,19 @@
         "side": "assets/costume/C061-garment-only/side.png",
         "back": "assets/costume/C061-garment-only/back.png"
       },
-      "name": "唐风儿童男秋季外衣"
+      "name": "唐风儿童男秋季外衣",
+      "era": "唐",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童男秋季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C062",
@@ -682,7 +1473,19 @@
         "side": "assets/costume/C062-garment-only/side.png",
         "back": "assets/costume/C062-garment-only/back.png"
       },
-      "name": "唐风儿童男冬季外衣"
+      "name": "唐风儿童男冬季外衣",
+      "era": "唐",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童男冬季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C063",
@@ -693,7 +1496,21 @@
         "side": "assets/costume/C063-garment-only/side.png",
         "back": "assets/costume/C063-garment-only/back.png"
       },
-      "name": "唐风儿童女春季外衣"
+      "name": "唐风儿童女春季外衣",
+      "era": "唐",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童女春季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C064",
@@ -704,7 +1521,19 @@
         "side": "assets/costume/C064-garment-only/side.png",
         "back": "assets/costume/C064-garment-only/back.png"
       },
-      "name": "唐风儿童女冬季外衣"
+      "name": "唐风儿童女冬季外衣",
+      "era": "唐",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 唐风儿童女冬季外衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C065",
@@ -715,7 +1544,20 @@
         "side": "assets/costume/C065-garment-only/side.png",
         "back": "assets/costume/C065-garment-only/back.png"
       },
-      "name": "唐风男式·单层中长袍"
+      "name": "唐风男式·单层中长袍",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 单层中长袍 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅长装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C066",
@@ -726,7 +1568,20 @@
         "side": "assets/costume/C066-garment-only/side.png",
         "back": "assets/costume/C066-garment-only/back.png"
       },
-      "name": "唐风男式·背心叠穿长装"
+      "name": "唐风男式·背心叠穿长装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 背心叠穿长装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅长装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C067",
@@ -737,7 +1592,19 @@
         "side": "assets/costume/C067-garment-only/side.png",
         "back": "assets/costume/C067-garment-only/back.png"
       },
-      "name": "唐风男式·短披肩保暖长装"
+      "name": "唐风男式·短披肩保暖长装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短披肩保暖长装 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅长装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C068",
@@ -748,7 +1615,21 @@
         "side": "assets/costume/C068-garment-only/side.png",
         "back": "assets/costume/C068-garment-only/back.png"
       },
-      "name": "唐风男式·单层窄袖短装"
+      "name": "唐风男式·单层窄袖短装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 单层窄袖短装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅短装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C069",
@@ -759,7 +1640,20 @@
         "side": "assets/costume/C069-garment-only/side.png",
         "back": "assets/costume/C069-garment-only/back.png"
       },
-      "name": "唐风男式·短背心叠穿裤装"
+      "name": "唐风男式·短背心叠穿裤装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短背心叠穿裤装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅短装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C070",
@@ -770,7 +1664,19 @@
         "side": "assets/costume/C070-garment-only/side.png",
         "back": "assets/costume/C070-garment-only/back.png"
       },
-      "name": "唐风男式·毡护肩短袄裤装"
+      "name": "唐风男式·毡护肩短袄裤装",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 毡护肩短袄裤装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅短装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C071",
@@ -781,7 +1687,20 @@
         "side": "assets/costume/C071-garment-only/side.png",
         "back": "assets/costume/C071-garment-only/back.png"
       },
-      "name": "唐风男式·大袖层叠法会衣（创作款）"
+      "name": "唐风男式·大袖层叠法会衣（创作款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "佛教僧人 · 纯服装 · 大袖层叠法会衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "法会礼仪僧衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C072",
@@ -792,7 +1711,21 @@
         "side": "assets/costume/C072-completion-v2/side.png",
         "back": "assets/costume/C072-completion-v2/back.png"
       },
-      "name": "唐风男式·圆领日常长袍"
+      "name": "唐风男式·圆领日常长袍",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹层圆领长袍 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "圆领日常长袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C073",
@@ -803,7 +1736,19 @@
         "side": "assets/costume/C073-completion-v2/side.png",
         "back": "assets/costume/C073-completion-v2/back.png"
       },
-      "name": "唐风男式·厚缘圆领保暖长袍（冬款）"
+      "name": "唐风男式·厚缘圆领保暖长袍（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚缘圆领保暖长袍 · 搭配深棕软靴",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "圆领日常长袍",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C074",
@@ -814,7 +1759,19 @@
         "side": "assets/costume/C074-completion/side.png",
         "back": "assets/costume/C074-completion/back.png"
       },
-      "name": "唐风男式·厚袄圆领工作裤装（冬款）"
+      "name": "唐风男式·厚袄圆领工作裤装（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚袄圆领工作裤装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C075",
@@ -825,7 +1782,19 @@
         "side": "assets/costume/C075-completion/side.png",
         "back": "assets/costume/C075-completion/back.png"
       },
-      "name": "唐风男式·轻层宽袖宫廷礼袍（夏款）"
+      "name": "唐风男式·轻层宽袖宫廷礼袍（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻层宽袖宫廷礼袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C076",
@@ -836,7 +1805,19 @@
         "side": "assets/costume/C076-completion/side.png",
         "back": "assets/costume/C076-completion/back.png"
       },
-      "name": "唐风男式·厚衬宽袖宫廷礼袍（冬款）"
+      "name": "唐风男式·厚衬宽袖宫廷礼袍（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚衬宽袖宫廷礼袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C077",
@@ -847,7 +1828,19 @@
         "side": "assets/costume/C077-completion/side.png",
         "back": "assets/costume/C077-completion/back.png"
       },
-      "name": "唐风女式·轻绢宫廷礼仪裙装（夏款）"
+      "name": "唐风女式·轻绢宫廷礼仪裙装（夏款）",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻绢宫廷礼仪裙装 · 搭配深红绣花布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C078",
@@ -858,7 +1851,20 @@
         "side": "assets/costume/C078-completion/side.png",
         "back": "assets/costume/C078-completion/back.png"
       },
-      "name": "唐风男式·厚衬缘饰宗室礼袍（冬款）"
+      "name": "唐风男式·厚衬缘饰宗室礼袍（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚衬缘饰宗室礼袍 · 搭配灰蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室礼服",
+      "season_scope": null,
+      "seasons": [
+        "夏",
+        "冬"
+      ]
     },
     {
       "id": "C079",
@@ -869,7 +1875,19 @@
         "side": "assets/costume/C079-completion/side.png",
         "back": "assets/costume/C079-completion/back.png"
       },
-      "name": "唐风女式·厚襦保暖裙装（冬款）"
+      "name": "唐风女式·厚襦保暖裙装（冬款）",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚襦保暖裙装 · 搭配浅蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C080",
@@ -880,7 +1898,19 @@
         "side": "assets/costume/C080-completion/side.png",
         "back": "assets/costume/C080-completion/back.png"
       },
-      "name": "唐风男式·单层宽袖圆领官服（夏款）"
+      "name": "唐风男式·单层宽袖圆领官服（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 单层宽袖圆领官服 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C081",
@@ -891,7 +1921,19 @@
         "side": "assets/costume/C081-completion/side.png",
         "back": "assets/costume/C081-completion/back.png"
       },
-      "name": "唐风男式·厚衬宽袖圆领官服（冬款）"
+      "name": "唐风男式·厚衬宽袖圆领官服（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚衬宽袖圆领官服 · 搭配深棕软靴",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C082",
@@ -902,7 +1944,19 @@
         "side": "assets/costume/C082-completion/side.png",
         "back": "assets/costume/C082-completion/back.png"
       },
-      "name": "唐风男式·短内袖重甲装（夏款）"
+      "name": "唐风男式·短内袖重甲装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短内袖重甲装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅重甲",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C083",
@@ -913,7 +1967,19 @@
         "side": "assets/costume/C083-completion/side.png",
         "back": "assets/costume/C083-completion/back.png"
       },
-      "name": "唐风男式·厚袄重甲护肩装（冬款）"
+      "name": "唐风男式·厚袄重甲护肩装（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚袄重甲护肩装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅重甲",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C084",
@@ -924,7 +1990,19 @@
         "side": "assets/costume/C084-completion/side.png",
         "back": "assets/costume/C084-completion/back.png"
       },
-      "name": "唐风男式·无袖轻甲薄衫装（夏款）"
+      "name": "唐风男式·无袖轻甲薄衫装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 无袖轻甲薄衫装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅轻甲",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C085",
@@ -935,7 +2013,19 @@
         "side": "assets/costume/C085-completion/side.png",
         "back": "assets/costume/C085-completion/back.png"
       },
-      "name": "唐风男式·薄衫护臂值守装（夏款）"
+      "name": "唐风男式·薄衫护臂值守装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄衫护臂值守装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "护卫装备",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C086",
@@ -946,7 +2036,19 @@
         "side": "assets/costume/C086-completion/side.png",
         "back": "assets/costume/C086-completion/back.png"
       },
-      "name": "唐风男式·厚袄护臂值守装（冬款）"
+      "name": "唐风男式·厚袄护臂值守装（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚袄护臂值守装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "护卫装备",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C087",
@@ -957,7 +2059,19 @@
         "side": "assets/costume/C087-completion/side.png",
         "back": "assets/costume/C087-completion/back.png"
       },
-      "name": "唐风男式·薄半臂长罩衫装（夏款）"
+      "name": "唐风男式·薄半臂长罩衫装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄半臂长罩衫装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C088",
@@ -968,7 +2082,19 @@
         "side": "assets/costume/C088-completion/side.png",
         "back": "assets/costume/C088-completion/back.png"
       },
-      "name": "唐风男式·厚长罩衣叠穿装（冬款）"
+      "name": "唐风男式·厚长罩衣叠穿装（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚长罩衣叠穿装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C089",
@@ -979,7 +2105,19 @@
         "side": "assets/costume/C089-completion/side.png",
         "back": "assets/costume/C089-completion/back.png"
       },
-      "name": "唐风男式·短袖腰围裙工作装（夏款）"
+      "name": "唐风男式·短袖腰围裙工作装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 短袖腰围裙工作装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "围裙劳作装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C090",
@@ -990,7 +2128,21 @@
         "side": "assets/costume/C090-completion/side.png",
         "back": "assets/costume/C090-completion/back.png"
       },
-      "name": "唐风男式·素交领长衣便服"
+      "name": "唐风男式·素交领长衣便服",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄交领长衣便服",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衣便服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C091",
@@ -1001,7 +2153,19 @@
         "side": "assets/costume/C091-completion/side.png",
         "back": "assets/costume/C091-completion/back.png"
       },
-      "name": "唐风男式·厚衬法会披衣（冬款）"
+      "name": "唐风男式·厚衬法会披衣（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚衬法会披衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "法会礼仪僧衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C092",
@@ -1012,7 +2176,19 @@
         "side": "assets/costume/C092-completion/side.png",
         "back": "assets/costume/C092-completion/back.png"
       },
-      "name": "唐风男式·夹层缘饰道教长衣（秋款）"
+      "name": "唐风男式·夹层缘饰道教长衣（秋款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹层缘饰道教长衣 · 搭配炭灰布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C093",
@@ -1023,7 +2199,19 @@
         "side": "assets/costume/C093-completion/side.png",
         "back": "assets/costume/C093-completion/back.png"
       },
-      "name": "唐风男式·厚衬道教长衣（冬款）"
+      "name": "唐风男式·厚衬道教长衣（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 厚衬道教长衣 · 搭配炭灰布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C094",
@@ -1034,7 +2222,20 @@
         "side": "assets/costume/C094-completion/side.png",
         "back": "assets/costume/C094-completion/back.png"
       },
-      "name": "唐风女式·夹层交领裙裤装（秋款）"
+      "name": "唐风女式·夹层交领裙裤装（秋款）",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹层交领裙裤装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "交领衫裙裤",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C095",
@@ -1045,7 +2246,19 @@
         "side": "assets/costume/C095-completion/side.png",
         "back": "assets/costume/C095-completion/back.png"
       },
-      "name": "唐风男式·轻半臂舞乐演出装（夏款）"
+      "name": "唐风男式·轻半臂舞乐演出装（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻半臂舞乐演出装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C096",
@@ -1056,7 +2269,19 @@
         "side": "assets/costume/C096-completion/side.png",
         "back": "assets/costume/C096-completion/back.png"
       },
-      "name": "唐风男式·夹袄舞乐演出装（冬款）"
+      "name": "唐风男式·夹袄舞乐演出装（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹袄舞乐演出装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C097",
@@ -1067,7 +2292,19 @@
         "side": "assets/costume/C097-completion/side.png",
         "back": "assets/costume/C097-completion/back.png"
       },
-      "name": "唐风女式·轻半臂披帛舞乐裙装（夏款）"
+      "name": "唐风女式·轻半臂披帛舞乐裙装（夏款）",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻半臂披帛舞乐裙装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C098",
@@ -1078,7 +2315,19 @@
         "side": "assets/costume/C098-completion/side.png",
         "back": "assets/costume/C098-completion/back.png"
       },
-      "name": "唐风女式·夹衫披帛舞乐裙装（冬款）"
+      "name": "唐风女式·夹衫披帛舞乐裙装（冬款）",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹衫披帛舞乐裙装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C099",
@@ -1089,7 +2338,21 @@
         "side": "assets/costume/C099-completion/side.png",
         "back": "assets/costume/C099-completion/back.png"
       },
-      "name": "唐风男式·僧人日常长衣"
+      "name": "唐风男式·僧人日常长衣",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "佛教僧人 · 纯服装 · 单层日常长衣（夏款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C100",
@@ -1100,7 +2363,19 @@
         "side": "assets/costume/C100-completion/side.png",
         "back": "assets/costume/C100-completion/back.png"
       },
-      "name": "唐风男式·厚衬日常长衣（冬款）"
+      "name": "唐风男式·厚衬日常长衣（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "佛教僧人 · 纯服装 · 厚衬日常长衣（冬款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C101",
@@ -1111,7 +2386,19 @@
         "side": "assets/costume/C101-completion/side.png",
         "back": "assets/costume/C101-completion/back.png"
       },
-      "name": "唐风男式·短袖劳作短衣（夏款）"
+      "name": "唐风男式·短袖劳作短衣（夏款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "佛教僧人 · 纯服装 · 短袖劳作短衣（夏款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C102",
@@ -1122,7 +2409,19 @@
         "side": "assets/costume/C102-completion/side.png",
         "back": "assets/costume/C102-completion/back.png"
       },
-      "name": "唐风男式·厚袄劳作短衣（冬款）"
+      "name": "唐风男式·厚袄劳作短衣（冬款）",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "佛教僧人 · 纯服装 · 厚袄劳作短衣（冬款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C103",
@@ -1133,7 +2432,24 @@
         "side": "assets/costume/C103-song-pure/side.png",
         "back": "assets/costume/C103-song-pure/back.png"
       },
-      "name": "通用男式·交领束带素长衣"
+      "name": "通用男式·交领束带素长衣",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元"
+      ],
+      "summary": "纯服装 · 交领束带素长衣 · 搭配靛蓝布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衣便服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C104",
@@ -1144,7 +2460,22 @@
         "side": "assets/costume/C104-song-pure/side.png",
         "back": "assets/costume/C104-song-pure/back.png"
       },
-      "name": "宋风男式·护肩长札甲（创作参考）"
+      "name": "宋风男式·护肩长札甲（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 护肩长札甲",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅重甲",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C105",
@@ -1155,7 +2486,25 @@
         "side": "assets/costume/C105-song-pure/side.png",
         "back": "assets/costume/C105-song-pure/back.png"
       },
-      "name": "通用男式·无袖短札甲与衣裤"
+      "name": "通用男式·无袖短札甲与衣裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "明"
+      ],
+      "summary": "纯服装 · 无袖短札甲与衣裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅轻甲",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C106",
@@ -1166,7 +2515,21 @@
         "side": "assets/costume/C106-song-pure/side.png",
         "back": "assets/costume/C106-song-pure/back.png"
       },
-      "name": "宋风男式·束腕僧人劳作短衣（创作参考）"
+      "name": "宋风男式·束腕僧人劳作短衣（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 束腕僧人劳作短衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C107",
@@ -1177,7 +2540,22 @@
         "side": "assets/costume/C107-song-pure/side.png",
         "back": "assets/costume/C107-song-pure/back.png"
       },
-      "name": "宋风女式·窄袖道教衫裙（创作参考）"
+      "name": "宋风女式·窄袖道教衫裙（创作参考）",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 窄袖道教衫裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C108",
@@ -1188,7 +2566,22 @@
         "side": "assets/costume/C108-song-pure/side.png",
         "back": "assets/costume/C108-song-pure/back.png"
       },
-      "name": "宋风男式·舞乐束袖袍裤（创作参考）"
+      "name": "宋风男式·舞乐束袖袍裤（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 舞乐束袖袍裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C109",
@@ -1199,7 +2592,21 @@
         "side": "assets/costume/C109-song-pure/side.png",
         "back": "assets/costume/C109-song-pure/back.png"
       },
-      "name": "宋风女式·舞乐长袖衫裙（创作参考）"
+      "name": "宋风女式·舞乐长袖衫裙（创作参考）",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 舞乐长袖衫裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C110",
@@ -1210,7 +2617,22 @@
         "side": "assets/costume/C110-song-pure/side.png",
         "back": "assets/costume/C110-song-pure/back.png"
       },
-      "name": "宋风男式·童式短衫裤装（创作参考）"
+      "name": "宋风男式·童式短衫裤装（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 童式短衫裤装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C111",
@@ -1221,7 +2643,24 @@
         "side": "assets/costume/C111-song-pure/side.png",
         "back": "assets/costume/C111-song-pure/back.png"
       },
-      "name": "通用女式·女童侧系短衫与裙"
+      "name": "通用女式·女童侧系短衫与裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": [
+        "汉",
+        "宋"
+      ],
+      "summary": "纯服装 · 女童侧系短衫与裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C112",
@@ -1232,7 +2671,22 @@
         "side": "assets/costume/C112-song-pure/side.png",
         "back": "assets/costume/C112-song-pure/back.png"
       },
-      "name": "宋风男式·绛纱朝服与方心曲领（创作参考）"
+      "name": "宋风男式·绛纱朝服与方心曲领（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 绛纱朝服与方心曲领",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C113",
@@ -1243,7 +2697,22 @@
         "side": "assets/costume/C113-song-pure/side.png",
         "back": "assets/costume/C113-song-pure/back.png"
       },
-      "name": "宋风男式·缘饰宗室礼仪袍（创作参考）"
+      "name": "宋风男式·缘饰宗室礼仪袍（创作参考）",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 缘饰宗室礼仪袍 · 搭配深棕布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C114",
@@ -1254,7 +2723,21 @@
         "side": "assets/costume/C114-ming-pure/side.png",
         "back": "assets/costume/C114-ming-pure/back.png"
       },
-      "name": "明风男式·圆领补服袍"
+      "name": "明风男式·圆领补服袍",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领补服袍 · 搭配黑色布靴",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C115",
@@ -1265,7 +2748,21 @@
         "side": "assets/costume/C115-ming-pure/side.png",
         "back": "assets/costume/C115-ming-pure/back.png"
       },
-      "name": "明风男式·札片长甲与战袍"
+      "name": "明风男式·札片长甲与战袍",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 札片长甲与战袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅甲衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C116",
@@ -1276,7 +2773,27 @@
         "side": "assets/costume/C116-ming-pure/side.png",
         "back": "assets/costume/C116-ming-pure/back.png"
       },
-      "name": "通用男式·僧众交领长衣"
+      "name": "通用男式·僧众交领长衣",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元",
+        "明",
+        "清"
+      ],
+      "summary": "纯服装 · 僧众交领长衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C117",
@@ -1287,7 +2804,24 @@
         "side": "assets/costume/C117-ming-pure/side.png",
         "back": "assets/costume/C117-ming-pure/back.png"
       },
-      "name": "通用男式·僧众劳作短衣裤"
+      "name": "通用男式·僧众劳作短衣裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "元",
+        "明",
+        "清"
+      ],
+      "summary": "纯服装 · 僧众劳作短衣裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "僧人日常与劳作衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C118",
@@ -1298,7 +2832,28 @@
         "side": "assets/costume/C118-ming-pure/side.png",
         "back": "assets/costume/C118-ming-pure/back.png"
       },
-      "name": "通用男式·田相披衣与长僧袍"
+      "name": "通用男式·田相披衣与长僧袍",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "唐",
+        "宋",
+        "元",
+        "明",
+        "清"
+      ],
+      "summary": "纯服装 · 田相披衣与长僧袍 · 搭配赭黄布鞋",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "法会礼仪僧衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C119",
@@ -1309,7 +2864,27 @@
         "side": "assets/costume/C119-ming-pure/side.png",
         "back": "assets/costume/C119-ming-pure/back.png"
       },
-      "name": "通用男式·道士宽袖长袍"
+      "name": "通用男式·道士宽袖长袍",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元",
+        "明",
+        "清"
+      ],
+      "summary": "纯服装 · 道士宽袖长袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C120",
@@ -1320,7 +2895,26 @@
         "side": "assets/costume/C120-ming-pure/side.png",
         "back": "assets/costume/C120-ming-pure/back.png"
       },
-      "name": "通用女式·道姑长衣与裙"
+      "name": "通用女式·道姑长衣与裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "元",
+        "明",
+        "清"
+      ],
+      "summary": "纯服装 · 道姑长衣与裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "道教衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C121",
@@ -1331,7 +2925,21 @@
         "side": "assets/costume/C121-ming-pure/side.png",
         "back": "assets/costume/C121-ming-pure/back.png"
       },
-      "name": "明风男式·男童短袄与裤"
+      "name": "明风男式·男童短袄与裤",
+      "era": "明",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童短袄与裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C122",
@@ -1342,7 +2950,21 @@
         "side": "assets/costume/C122-ming-pure/side.png",
         "back": "assets/costume/C122-ming-pure/back.png"
       },
-      "name": "明风女式·女童短袄与裙"
+      "name": "明风女式·女童短袄与裙",
+      "era": "明",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童短袄与裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C123",
@@ -1353,7 +2975,22 @@
         "side": "assets/costume/C123-ming-pure/side.png",
         "back": "assets/costume/C123-ming-pure/back.png"
       },
-      "name": "明风男式·男式舞乐长衫"
+      "name": "明风男式·男式舞乐长衫",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式舞乐长衫",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C124",
@@ -1364,7 +3001,22 @@
         "side": "assets/costume/C124-ming-pure/side.png",
         "back": "assets/costume/C124-ming-pure/back.png"
       },
-      "name": "明风女式·女式舞乐叠裙"
+      "name": "明风女式·女式舞乐叠裙",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女式舞乐叠裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C125",
@@ -1375,7 +3027,22 @@
         "side": "assets/costume/C125-ming-pure/side.png",
         "back": "assets/costume/C125-ming-pure/back.png"
       },
-      "name": "明风女式·翟纹大袖宫廷礼裙（创作款）"
+      "name": "明风女式·翟纹大袖宫廷礼裙（创作款）",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 翟纹大袖宫廷礼裙（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C126",
@@ -1386,7 +3053,22 @@
         "side": "assets/costume/C126-ming-pure/side.png",
         "back": "assets/costume/C126-ming-pure/back.png"
       },
-      "name": "明风男式·玄衣纁裳衮冕服（创作款）"
+      "name": "明风男式·玄衣纁裳衮冕服（创作款）",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 玄衣纁裳衮冕服（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C127",
@@ -1397,7 +3079,22 @@
         "side": "assets/costume/C127-ming-pure/side.png",
         "back": "assets/costume/C127-ming-pure/back.png"
       },
-      "name": "明风男式·宗室礼仪赤罗袍（创作款）"
+      "name": "明风男式·宗室礼仪赤罗袍（创作款）",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 宗室礼仪赤罗袍（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室礼仪服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C128",
@@ -1408,7 +3105,21 @@
         "side": "assets/costume/C128-yuan-pure/side.png",
         "back": "assets/costume/C128-yuan-pure/back.png"
       },
-      "name": "元风男式·辫线窄袖袍"
+      "name": "元风男式·辫线窄袖袍",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 辫线窄袖袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古行旅袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C129",
@@ -1419,7 +3130,19 @@
         "side": "assets/costume/C129-yuan-pure/side.png",
         "back": "assets/costume/C129-yuan-pure/back.png"
       },
-      "name": "元风男式·皮缘保暖袍"
+      "name": "元风男式·皮缘保暖袍",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皮缘保暖袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古行旅袍",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C130",
@@ -1430,7 +3153,20 @@
         "side": "assets/costume/C130-yuan-pure/side.png",
         "back": "assets/costume/C130-yuan-pure/back.png"
       },
-      "name": "元风女式·蒙古贵族宽袖长袍"
+      "name": "元风女式·蒙古贵族宽袖长袍",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古贵族宽袖长袍 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古女式长袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C131",
@@ -1441,7 +3177,20 @@
         "side": "assets/costume/C131-yuan-pure/side.png",
         "back": "assets/costume/C131-yuan-pure/back.png"
       },
-      "name": "元风女式·蒙古日常窄袖袍"
+      "name": "元风女式·蒙古日常窄袖袍",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古日常窄袖袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古女式长袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C132",
@@ -1452,7 +3201,20 @@
         "side": "assets/costume/C132-yuan-pure/side.png",
         "back": "assets/costume/C132-yuan-pure/back.png"
       },
-      "name": "元风女式·汉地背心叠穿裙"
+      "name": "元风女式·汉地背心叠穿裙",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 汉地背心叠穿裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "汉地日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C133",
@@ -1463,7 +3225,19 @@
         "side": "assets/costume/C133-yuan-pure/side.png",
         "back": "assets/costume/C133-yuan-pure/back.png"
       },
-      "name": "元风女式·皮缘冬季长袍"
+      "name": "元风女式·皮缘冬季长袍",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皮缘冬季长袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古女式长袍",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C134",
@@ -1474,7 +3248,22 @@
         "side": "assets/costume/C134-yuan-pure/side.png",
         "back": "assets/costume/C134-yuan-pure/back.png"
       },
-      "name": "元风男式·圆领公服袍（创作款）"
+      "name": "元风男式·圆领公服袍（创作款）",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领公服袍（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C135",
@@ -1485,7 +3274,20 @@
         "side": "assets/costume/C135-yuan-pure/side.png",
         "back": "assets/costume/C135-yuan-pure/back.png"
       },
-      "name": "元风男式·蒙古宫廷织金长袍（创作款）"
+      "name": "元风男式·蒙古宫廷织金长袍（创作款）",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古宫廷织金长袍（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C136",
@@ -1496,7 +3298,21 @@
         "side": "assets/costume/C136-yuan-pure/side.png",
         "back": "assets/costume/C136-yuan-pure/back.png"
       },
-      "name": "元风男式·长札甲与战袍"
+      "name": "元风男式·长札甲与战袍",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 长札甲与战袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅甲衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C137",
@@ -1507,7 +3323,21 @@
         "side": "assets/costume/C137-yuan-pure/side.png",
         "back": "assets/costume/C137-yuan-pure/back.png"
       },
-      "name": "元风男式·皮札轻甲衣裤"
+      "name": "元风男式·皮札轻甲衣裤",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皮札轻甲衣裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅甲衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C138",
@@ -1518,7 +3348,22 @@
         "side": "assets/costume/C138-yuan-pure/side.png",
         "back": "assets/costume/C138-yuan-pure/back.png"
       },
-      "name": "元风男式·男童短袍与裤"
+      "name": "元风男式·男童短袍与裤",
+      "era": "元",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童短袍与裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C139",
@@ -1529,7 +3374,22 @@
         "side": "assets/costume/C139-yuan-pure/side.png",
         "back": "assets/costume/C139-yuan-pure/back.png"
       },
-      "name": "元风女式·女童短衫与裙"
+      "name": "元风女式·女童短衫与裙",
+      "era": "元",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童短衫与裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C140",
@@ -1540,7 +3400,22 @@
         "side": "assets/costume/C140-yuan-pure/side.png",
         "back": "assets/costume/C140-yuan-pure/back.png"
       },
-      "name": "元风男式·男式舞乐织纹袍"
+      "name": "元风男式·男式舞乐织纹袍",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式舞乐织纹袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C141",
@@ -1551,7 +3426,22 @@
         "side": "assets/costume/C141-yuan-pure/side.png",
         "back": "assets/costume/C141-yuan-pure/back.png"
       },
-      "name": "元风女式·女式舞乐叠裙"
+      "name": "元风女式·女式舞乐叠裙",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女式舞乐叠裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C142",
@@ -1562,7 +3452,20 @@
         "side": "assets/costume/C142-han-pure/side.png",
         "back": "assets/costume/C142-han-pure/back.png"
       },
-      "name": "汉风·玄衣纁裳礼服（创作款）"
+      "name": "汉风·玄衣纁裳礼服（创作款）",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 玄衣纁裳礼服（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C143",
@@ -1573,7 +3476,20 @@
         "side": "assets/costume/C143-han-pure/side.png",
         "back": "assets/costume/C143-han-pure/back.png"
       },
-      "name": "汉风·大袖绕襟盛装袍"
+      "name": "汉风·大袖绕襟盛装袍",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 大袖绕襟盛装袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷女式盛装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C144",
@@ -1584,7 +3500,21 @@
         "side": "assets/costume/C144-han-pure/side.png",
         "back": "assets/costume/C144-han-pure/back.png"
       },
-      "name": "汉风·披膊长札甲与战袍"
+      "name": "汉风·披膊长札甲与战袍",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 披膊长札甲与战袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅甲衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C145",
@@ -1595,7 +3525,20 @@
         "side": "assets/costume/C145-han-pure/side.png",
         "back": "assets/costume/C145-han-pure/back.png"
       },
-      "name": "汉风·无袖短札甲与衣裤"
+      "name": "汉风·无袖短札甲与衣裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 无袖短札甲与衣裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅甲衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C146",
@@ -1606,7 +3549,20 @@
         "side": "assets/costume/C146-han-pure/side.png",
         "back": "assets/costume/C146-han-pure/back.png"
       },
-      "name": "汉风·男童短襦与裤"
+      "name": "汉风·男童短襦与裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童短襦与裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C147",
@@ -1617,7 +3573,21 @@
         "side": "assets/costume/C147-han-pure/side.png",
         "back": "assets/costume/C147-han-pure/back.png"
       },
-      "name": "汉风·长袖绕襟舞衣"
+      "name": "汉风·长袖绕襟舞衣",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 长袖绕襟舞衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C148",
@@ -1628,7 +3598,20 @@
         "side": "assets/costume/C148-han-pure/side.png",
         "back": "assets/costume/C148-han-pure/back.png"
       },
-      "name": "汉风·夹里绕襟长衣"
+      "name": "汉风·夹里绕襟长衣",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹里绕襟长衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C149",
@@ -1639,7 +3622,19 @@
         "side": "assets/costume/C149-han-pure/side.png",
         "back": "assets/costume/C149-han-pure/back.png"
       },
-      "name": "汉风·薄质直裾女式长衣"
+      "name": "汉风·薄质直裾女式长衣",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄质直裾女式长衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C150",
@@ -1650,7 +3645,19 @@
         "side": "assets/costume/C150-han-pure/side.png",
         "back": "assets/costume/C150-han-pure/back.png"
       },
-      "name": "汉风·绵絮交领女式冬袍"
+      "name": "汉风·绵絮交领女式冬袍",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 绵絮交领女式冬袍",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C151",
@@ -1661,7 +3668,22 @@
         "side": "assets/costume/C151-han-pure/side.png",
         "back": "assets/costume/C151-han-pure/back.png"
       },
-      "name": "通用男式·绗缝劳动短袄与绑腿裤"
+      "name": "通用男式·绗缝劳动短袄与绑腿裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "汉",
+        "元"
+      ],
+      "summary": "纯服装 · 绗缝劳动短袄与绑腿裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "短衣工作装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C152",
@@ -1672,7 +3694,19 @@
         "side": "assets/costume/C152-han-pure/side.png",
         "back": "assets/costume/C152-han-pure/back.png"
       },
-      "name": "汉风·薄质玄衣纁裳礼服"
+      "name": "汉风·薄质玄衣纁裳礼服",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄质玄衣纁裳礼服",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C153",
@@ -1683,7 +3717,19 @@
         "side": "assets/costume/C153-han-pure/side.png",
         "back": "assets/costume/C153-han-pure/back.png"
       },
-      "name": "汉风·夹绵玄衣纁裳礼服"
+      "name": "汉风·夹绵玄衣纁裳礼服",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹绵玄衣纁裳礼服",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷礼服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C154",
@@ -1694,7 +3740,19 @@
         "side": "assets/costume/C154-han-pure/side.png",
         "back": "assets/costume/C154-han-pure/back.png"
       },
-      "name": "汉风·轻罗大袖盛装（创作款）"
+      "name": "汉风·轻罗大袖盛装（创作款）",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 轻罗大袖盛装（创作款）",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷女式盛装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C155",
@@ -1705,7 +3763,19 @@
         "side": "assets/costume/C155-han-pure/side.png",
         "back": "assets/costume/C155-han-pure/back.png"
       },
-      "name": "汉风·夹绵大袖绕襟盛装"
+      "name": "汉风·夹绵大袖绕襟盛装",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹绵大袖绕襟盛装",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷女式盛装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C156",
@@ -1716,7 +3786,19 @@
         "side": "assets/costume/C156-han-pure/side.png",
         "back": "assets/costume/C156-han-pure/back.png"
       },
-      "name": "汉风·男童薄襦与裤"
+      "name": "汉风·男童薄襦与裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童薄襦与裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C157",
@@ -1727,7 +3809,19 @@
         "side": "assets/costume/C157-han-pure/side.png",
         "back": "assets/costume/C157-han-pure/back.png"
       },
-      "name": "汉风·男童绵襦与裤"
+      "name": "汉风·男童绵襦与裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童绵襦与裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C158",
@@ -1738,7 +3832,19 @@
         "side": "assets/costume/C158-han-pure/side.png",
         "back": "assets/costume/C158-han-pure/back.png"
       },
-      "name": "汉风·女童薄襦与长裙"
+      "name": "汉风·女童薄襦与长裙",
+      "era": "汉",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童薄襦与长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C159",
@@ -1749,7 +3855,19 @@
         "side": "assets/costume/C159-han-pure/side.png",
         "back": "assets/costume/C159-han-pure/back.png"
       },
-      "name": "汉风·女童绵襦与长裙"
+      "name": "汉风·女童绵襦与长裙",
+      "era": "汉",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童绵襦与长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C160",
@@ -1760,7 +3878,19 @@
         "side": "assets/costume/C160-han-pure/side.png",
         "back": "assets/costume/C160-han-pure/back.png"
       },
-      "name": "汉风·夹里长袖绕襟舞衣"
+      "name": "汉风·夹里长袖绕襟舞衣",
+      "era": "汉",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 夹里长袖绕襟舞衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "舞乐演出服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C161",
@@ -1771,7 +3901,22 @@
         "side": "assets/costume/C161-han-pure/side.png",
         "back": "assets/costume/C161-han-pure/back.png"
       },
-      "name": "汉末题材·轻质披裹僧衣（创作款）"
+      "name": "汉末题材·轻质披裹僧衣（创作款）",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 薄质披裹僧衣",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "早期僧人披裹衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C162",
@@ -1782,7 +3927,22 @@
         "side": "assets/costume/C162-season-pure/side.png",
         "back": "assets/costume/C162-season-pure/back.png"
       },
-      "name": "通用女式·夹里短衫与长裙"
+      "name": "通用女式·夹里短衫与长裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "宋",
+        "元"
+      ],
+      "summary": "纯服装 · 夹里短衫与长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "日常衫裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C163",
@@ -1793,7 +3953,19 @@
         "side": "assets/costume/C163-season-pure/side.png",
         "back": "assets/costume/C163-season-pure/back.png"
       },
-      "name": "宋风·圆领宽袖公服袍（创作款）·冬季夹里款"
+      "name": "宋风·圆领宽袖公服袍（创作款）·冬季夹里款",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领宽袖公服袍（创作款）·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C164",
@@ -1804,7 +3976,19 @@
         "side": "assets/costume/C164-season-pure/side.png",
         "back": "assets/costume/C164-season-pure/back.png"
       },
-      "name": "宋风·束腕行旅短装（创作款）·冬季夹里款"
+      "name": "宋风·束腕行旅短装（创作款）·冬季夹里款",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 束腕行旅短装（创作款）·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "行旅短装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C165",
@@ -1815,7 +3999,19 @@
         "side": "assets/costume/C165-season-pure/side.png",
         "back": "assets/costume/C165-season-pure/back.png"
       },
-      "name": "宋风·背心叠穿衫裙·夏季薄款"
+      "name": "宋风·背心叠穿衫裙·夏季薄款",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 背心叠穿衫裙·夏季薄款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C166",
@@ -1826,7 +4022,19 @@
         "side": "assets/costume/C166-season-pure/side.png",
         "back": "assets/costume/C166-season-pure/back.png"
       },
-      "name": "宋风·背心叠穿衫裙·冬季夹里款"
+      "name": "宋风·背心叠穿衫裙·冬季夹里款",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 背心叠穿衫裙·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "罩衫叠穿日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C167",
@@ -1837,7 +4045,19 @@
         "side": "assets/costume/C167-season-pure/side.png",
         "back": "assets/costume/C167-season-pure/back.png"
       },
-      "name": "宋风·对襟长衫与裙·冬季夹里款"
+      "name": "宋风·对襟长衫与裙·冬季夹里款",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 对襟长衫与裙·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "对襟长衫裙装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C168",
@@ -1848,7 +4068,19 @@
         "side": "assets/costume/C168-season-pure/side.png",
         "back": "assets/costume/C168-season-pure/back.png"
       },
-      "name": "宋风·交领素色长衣·冬季夹里款"
+      "name": "宋风·交领素色长衣·冬季夹里款",
+      "era": "宋",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 交领素色长衣·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衣便服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C169",
@@ -1859,7 +4091,19 @@
         "side": "assets/costume/C169-season-pure/side.png",
         "back": "assets/costume/C169-season-pure/back.png"
       },
-      "name": "宋风·舞乐长袖衫裙·冬季夹里款"
+      "name": "宋风·舞乐长袖衫裙·冬季夹里款",
+      "era": "宋",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 舞乐长袖衫裙·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "演出衣装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C170",
@@ -1870,7 +4114,19 @@
         "side": "assets/costume/C170-season-pure/side.png",
         "back": "assets/costume/C170-season-pure/back.png"
       },
-      "name": "宋风·童式短衫裙装·冬季夹里款"
+      "name": "宋风·童式短衫裙装·冬季夹里款",
+      "era": "宋",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 童式短衫裙装·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常装",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C171",
@@ -1881,7 +4137,19 @@
         "side": "assets/costume/C171-season-pure/side.png",
         "back": "assets/costume/C171-season-pure/back.png"
       },
-      "name": "明风·圆领补服袍·冬季夹里款"
+      "name": "明风·圆领补服袍·冬季夹里款",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 圆领补服袍·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "官服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C172",
@@ -1892,7 +4160,19 @@
         "side": "assets/costume/C172-season-pure/side.png",
         "back": "assets/costume/C172-season-pure/back.png"
       },
-      "name": "明风·男童短袄与裤·夏季薄款"
+      "name": "明风·男童短袄与裤·夏季薄款",
+      "era": "明",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童短袄与裤·夏季薄款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C173",
@@ -1903,7 +4183,19 @@
         "side": "assets/costume/C173-season-pure/side.png",
         "back": "assets/costume/C173-season-pure/back.png"
       },
-      "name": "明风·女童短袄与裙·冬季夹里款"
+      "name": "明风·女童短袄与裙·冬季夹里款",
+      "era": "明",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童短袄与裙·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "儿童日常服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C174",
@@ -1914,7 +4206,19 @@
         "side": "assets/costume/C174-season-pure/side.png",
         "back": "assets/costume/C174-season-pure/back.png"
       },
-      "name": "元风·汉地士人交领长衣·冬季夹里款"
+      "name": "元风·汉地士人交领长衣·冬季夹里款",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 汉地士人交领长衣·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "汉地日常长衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C175",
@@ -1925,7 +4229,19 @@
         "side": "assets/costume/C175-season-pure/side.png",
         "back": "assets/costume/C175-season-pure/back.png"
       },
-      "name": "元风·蒙古贵族宽袖长袍·夏季薄款"
+      "name": "元风·蒙古贵族宽袖长袍·夏季薄款",
+      "era": "元",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古贵族宽袖长袍·夏季薄款 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "蒙古女式长袍",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C176",
@@ -1936,7 +4252,19 @@
         "side": "assets/costume/C176-season-pure/side.png",
         "back": "assets/costume/C176-season-pure/back.png"
       },
-      "name": "元风·蒙古宫廷织金长袍（创作款）·夏季薄款"
+      "name": "元风·蒙古宫廷织金长袍（创作款）·夏季薄款",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古宫廷织金长袍（创作款）·夏季薄款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷常服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C177",
@@ -1947,7 +4275,19 @@
         "side": "assets/costume/C177-season-pure/side.png",
         "back": "assets/costume/C177-season-pure/back.png"
       },
-      "name": "元风·蒙古宫廷织金长袍（创作款）·冬季夹里款"
+      "name": "元风·蒙古宫廷织金长袍（创作款）·冬季夹里款",
+      "era": "元",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 蒙古宫廷织金长袍（创作款）·冬季夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宫廷常服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C178",
@@ -1958,7 +4298,21 @@
         "side": "assets/costume/C178-badge-revised/side.png",
         "back": "assets/costume/C178-badge-revised/back.png"
       },
-      "name": "明风·一二品武官狮补常服·春秋夹里款"
+      "name": "明风·一二品武官狮补常服·春秋夹里款",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 一二品武官狮补圆领常服·春秋夹里款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "一二品武官狮补常服",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C179",
@@ -1969,7 +4323,19 @@
         "side": "assets/costume/C179-badge-revised/side.png",
         "back": "assets/costume/C179-badge-revised/back.png"
       },
-      "name": "明风·一二品武官狮补常服·冬季保暖款"
+      "name": "明风·一二品武官狮补常服·冬季保暖款",
+      "era": "明",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 一二品武官狮补圆领常服·冬季保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "一二品武官狮补常服",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C180",
@@ -1980,7 +4346,20 @@
         "side": "assets/costume/C180-season-pure/side.png",
         "back": "assets/costume/C180-season-pure/back.png"
       },
-      "name": "清风·皇帝朝袍·春夏单款"
+      "name": "清风·皇帝朝袍·春夏单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皇帝朝袍·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "皇帝朝袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C181",
@@ -1991,7 +4370,20 @@
         "side": "assets/costume/C181-season-pure/side.png",
         "back": "assets/costume/C181-season-pure/back.png"
       },
-      "name": "清风·皇帝朝袍·秋冬绵款"
+      "name": "清风·皇帝朝袍·秋冬绵款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皇帝朝袍·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "皇帝朝袍",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C182",
@@ -2002,7 +4394,20 @@
         "side": "assets/costume/C182-season-pure/side.png",
         "back": "assets/costume/C182-season-pure/back.png"
       },
-      "name": "清风·皇后朝服衣装·春夏单款"
+      "name": "清风·皇后朝服衣装·春夏单款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皇后朝服衣装·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "皇后朝服衣装",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C183",
@@ -2013,7 +4418,20 @@
         "side": "assets/costume/C183-season-pure/side.png",
         "back": "assets/costume/C183-season-pure/back.png"
       },
-      "name": "清风·皇后朝服衣装·秋冬绵款"
+      "name": "清风·皇后朝服衣装·秋冬绵款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 皇后朝服衣装·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "皇后朝服衣装",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C184",
@@ -2024,7 +4442,20 @@
         "side": "assets/costume/C184-season-pure/side.png",
         "back": "assets/costume/C184-season-pure/back.png"
       },
-      "name": "清风·宗室男式吉服袍·春夏单款"
+      "name": "清风·宗室男式吉服袍·春夏单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 宗室男式吉服袍·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室男式吉服袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C185",
@@ -2035,7 +4466,20 @@
         "side": "assets/costume/C185-season-pure/side.png",
         "back": "assets/costume/C185-season-pure/back.png"
       },
-      "name": "清风·宗室男式吉服袍·秋冬绵款"
+      "name": "清风·宗室男式吉服袍·秋冬绵款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 宗室男式吉服袍·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "宗室男式吉服袍",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C186",
@@ -2046,7 +4490,20 @@
         "side": "assets/costume/C186-season-pure/side.png",
         "back": "assets/costume/C186-season-pure/back.png"
       },
-      "name": "清风·旗人女式盛装氅衣·薄单款"
+      "name": "清风·旗人女式盛装氅衣·薄单款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 旗人女式盛装氅衣·薄单款 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗人女式盛装氅衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C187",
@@ -2057,7 +4514,19 @@
         "side": "assets/costume/C187-season-pure/side.png",
         "back": "assets/costume/C187-season-pure/back.png"
       },
-      "name": "清风·旗人女式盛装氅衣·叠穿款"
+      "name": "清风·旗人女式盛装氅衣·叠穿款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 旗人女式盛装氅衣·叠穿款 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗人女式盛装氅衣",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C188",
@@ -2068,7 +4537,19 @@
         "side": "assets/costume/C188-season-pure/side.png",
         "back": "assets/costume/C188-season-pure/back.png"
       },
-      "name": "清风·旗人女式盛装氅衣·保暖款"
+      "name": "清风·旗人女式盛装氅衣·保暖款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 旗人女式盛装氅衣·保暖款 · 影视配色参考",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗人女式盛装氅衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C189",
@@ -2079,7 +4560,21 @@
         "side": "assets/costume/C189-season-pure/side.png",
         "back": "assets/costume/C189-season-pure/back.png"
       },
-      "name": "清风·旗人女式素常袍·春夏秋单款"
+      "name": "清风·旗人女式素常袍·春夏秋单款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 旗人女式素常袍·春夏秋单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗人女式素常袍",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C190",
@@ -2090,7 +4585,19 @@
         "side": "assets/costume/C190-season-pure/side.png",
         "back": "assets/costume/C190-season-pure/back.png"
       },
-      "name": "清风·旗人女式素常袍·冬季绵款"
+      "name": "清风·旗人女式素常袍·冬季绵款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 旗人女式素常袍·冬季绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗人女式素常袍",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C191",
@@ -2101,7 +4608,20 @@
         "side": "assets/costume/C191-season-pure/side.png",
         "back": "assets/costume/C191-season-pure/back.png"
       },
-      "name": "清风·汉地女式袄裙·薄单款"
+      "name": "清风·汉地女式袄裙·薄单款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 汉地女式袄裙·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "汉地女式袄裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C192",
@@ -2112,7 +4632,19 @@
         "side": "assets/costume/C192-season-pure/side.png",
         "back": "assets/costume/C192-season-pure/back.png"
       },
-      "name": "清风·汉地女式袄裙·叠穿款"
+      "name": "清风·汉地女式袄裙·叠穿款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 汉地女式袄裙·叠穿款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "汉地女式袄裙",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C193",
@@ -2123,7 +4655,19 @@
         "side": "assets/costume/C193-season-pure/side.png",
         "back": "assets/costume/C193-season-pure/back.png"
       },
-      "name": "清风·汉地女式袄裙·保暖款"
+      "name": "清风·汉地女式袄裙·保暖款",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 汉地女式袄裙·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "汉地女式袄裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C194",
@@ -2134,7 +4678,20 @@
         "side": "assets/costume/C194-season-pure/side.png",
         "back": "assets/costume/C194-season-pure/back.png"
       },
-      "name": "清风·男式长衫马褂·薄单款"
+      "name": "清风·男式长衫马褂·薄单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式长衫马褂·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式长衫与褂类",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C195",
@@ -2145,7 +4702,19 @@
         "side": "assets/costume/C195-season-pure/side.png",
         "back": "assets/costume/C195-season-pure/back.png"
       },
-      "name": "清风·男式长衫与坎肩·叠穿款"
+      "name": "清风·男式长衫与坎肩·叠穿款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式长衫与坎肩·叠穿款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式长衫与褂类",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C196",
@@ -2156,7 +4725,19 @@
         "side": "assets/costume/C196-season-pure/side.png",
         "back": "assets/costume/C196-season-pure/back.png"
       },
-      "name": "清风·男式长衫马褂·保暖款"
+      "name": "清风·男式长衫马褂·保暖款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式长衫马褂·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式长衫与褂类",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C197",
@@ -2167,7 +4748,20 @@
         "side": "assets/costume/C197-season-pure/side.png",
         "back": "assets/costume/C197-season-pure/back.png"
       },
-      "name": "清风·男式短衣裤·薄单款"
+      "name": "清风·男式短衣裤·薄单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式短衣裤·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式短衣裤",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C198",
@@ -2178,7 +4772,19 @@
         "side": "assets/costume/C198-season-pure/side.png",
         "back": "assets/costume/C198-season-pure/back.png"
       },
-      "name": "清风·男式短衣裤·叠穿款"
+      "name": "清风·男式短衣裤·叠穿款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式短衣裤·叠穿款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式短衣裤",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C199",
@@ -2189,7 +4795,19 @@
         "side": "assets/costume/C199-season-pure/side.png",
         "back": "assets/costume/C199-season-pure/back.png"
       },
-      "name": "清风·男式短衣裤·保暖款"
+      "name": "清风·男式短衣裤·保暖款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式短衣裤·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男式短衣裤",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C200",
@@ -2200,7 +4818,20 @@
         "side": "assets/costume/C200-season-pure/side.png",
         "back": "assets/costume/C200-season-pure/back.png"
       },
-      "name": "清风·一品文官补褂·春夏单款"
+      "name": "清风·一品文官补褂·春夏单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 一品文官补褂·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "一品文官补褂",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C201",
@@ -2211,7 +4842,20 @@
         "side": "assets/costume/C201-season-pure/side.png",
         "back": "assets/costume/C201-season-pure/back.png"
       },
-      "name": "清风·一品文官补褂·秋冬绵款"
+      "name": "清风·一品文官补褂·秋冬绵款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 一品文官补褂·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "一品文官补褂",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C202",
@@ -2222,7 +4866,20 @@
         "side": "assets/costume/C202-season-pure/side.png",
         "back": "assets/costume/C202-season-pure/back.png"
       },
-      "name": "清风·二品武官补褂·春夏单款"
+      "name": "清风·二品武官补褂·春夏单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 二品武官补褂·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "二品武官补褂",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C203",
@@ -2233,7 +4890,20 @@
         "side": "assets/costume/C203-season-pure/side.png",
         "back": "assets/costume/C203-season-pure/back.png"
       },
-      "name": "清风·二品武官补褂·秋冬绵款"
+      "name": "清风·二品武官补褂·秋冬绵款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 二品武官补褂·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "二品武官补褂",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C204",
@@ -2244,7 +4914,20 @@
         "side": "assets/costume/C204-season-pure/side.png",
         "back": "assets/costume/C204-season-pure/back.png"
       },
-      "name": "清风·军旅钉甲·春夏单款"
+      "name": "清风·军旅钉甲·春夏单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 军旅钉甲·春夏单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅钉甲",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C205",
@@ -2255,7 +4938,20 @@
         "side": "assets/costume/C205-season-pure/side.png",
         "back": "assets/costume/C205-season-pure/back.png"
       },
-      "name": "清风·军旅钉甲·秋冬绵款"
+      "name": "清风·军旅钉甲·秋冬绵款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 军旅钉甲·秋冬绵款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军旅钉甲",
+      "season_scope": null,
+      "seasons": [
+        "秋",
+        "冬"
+      ]
     },
     {
       "id": "C206",
@@ -2266,7 +4962,21 @@
         "side": "assets/costume/C206-season-pure/side.png",
         "back": "assets/costume/C206-season-pure/back.png"
       },
-      "name": "清风·兵役号衣·薄单款"
+      "name": "清风·兵役号衣·薄单款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 兵役号衣·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "兵役号衣",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏",
+        "秋"
+      ]
     },
     {
       "id": "C207",
@@ -2277,7 +4987,19 @@
         "side": "assets/costume/C207-season-pure/side.png",
         "back": "assets/costume/C207-season-pure/back.png"
       },
-      "name": "清风·兵役号衣·保暖款"
+      "name": "清风·兵役号衣·保暖款",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 兵役号衣·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "兵役号衣",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C208",
@@ -2288,7 +5010,20 @@
         "side": "assets/costume/C208-season-pure/side.png",
         "back": "assets/costume/C208-season-pure/back.png"
       },
-      "name": "清风·男童袄裤·薄单款"
+      "name": "清风·男童袄裤·薄单款",
+      "era": "清",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童袄裤·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男童袄裤",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C209",
@@ -2299,7 +5034,19 @@
         "side": "assets/costume/C209-season-pure/side.png",
         "back": "assets/costume/C209-season-pure/back.png"
       },
-      "name": "清风·男童袄裤·叠穿款"
+      "name": "清风·男童袄裤·叠穿款",
+      "era": "清",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童袄裤·叠穿款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男童袄裤",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C210",
@@ -2310,7 +5057,19 @@
         "side": "assets/costume/C210-season-pure/side.png",
         "back": "assets/costume/C210-season-pure/back.png"
       },
-      "name": "清风·男童袄裤·保暖款"
+      "name": "清风·男童袄裤·保暖款",
+      "era": "清",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童袄裤·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "男童袄裤",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C211",
@@ -2321,7 +5080,20 @@
         "side": "assets/costume/C211-season-pure/side.png",
         "back": "assets/costume/C211-season-pure/back.png"
       },
-      "name": "清风·女童袄裙·薄单款"
+      "name": "清风·女童袄裙·薄单款",
+      "era": "清",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童袄裙·薄单款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "女童袄裙",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "夏"
+      ]
     },
     {
       "id": "C212",
@@ -2332,7 +5104,19 @@
         "side": "assets/costume/C212-season-pure/side.png",
         "back": "assets/costume/C212-season-pure/back.png"
       },
-      "name": "清风·女童袄裙·叠穿款"
+      "name": "清风·女童袄裙·叠穿款",
+      "era": "清",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童袄裙·叠穿款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "女童袄裙",
+      "season_scope": null,
+      "seasons": [
+        "秋"
+      ]
     },
     {
       "id": "C213",
@@ -2343,7 +5127,19 @@
         "side": "assets/costume/C213-season-pure/side.png",
         "back": "assets/costume/C213-season-pure/back.png"
       },
-      "name": "清风·女童袄裙·保暖款"
+      "name": "清风·女童袄裙·保暖款",
+      "era": "清",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童袄裙·保暖款",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "女童袄裙",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C214",
@@ -2354,7 +5150,17 @@
         "side": "assets/costume/C214/side.png",
         "back": "assets/costume/C214/back.png"
       },
-      "name": "交领短衫与束脚宽裤"
+      "name": "交领短衫与束脚宽裤",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "交领短衫与束脚宽裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C215",
@@ -2365,7 +5171,17 @@
         "side": "assets/costume/C215/side.png",
         "back": "assets/costume/C215/back.png"
       },
-      "name": "敞襟长罩衫与直筒裤"
+      "name": "敞襟长罩衫与直筒裤",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "敞襟长罩衫与直筒裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C216",
@@ -2376,7 +5192,17 @@
         "side": "assets/costume/C216/side.png",
         "back": "assets/costume/C216/back.png"
       },
-      "name": "灰蓝垂袖衫与粉色叠裙"
+      "name": "灰蓝垂袖衫与粉色叠裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "灰蓝垂袖衫与粉色叠裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C217",
@@ -2387,7 +5213,17 @@
         "side": "assets/costume/C217/side.png",
         "back": "assets/costume/C217/back.png"
       },
-      "name": "绣花肚兜与束脚宽裤"
+      "name": "绣花肚兜与束脚宽裤",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "绣花肚兜与束脚宽裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C218",
@@ -2398,7 +5234,17 @@
         "side": "assets/costume/C218/side.png",
         "back": "assets/costume/C218/back.png"
       },
-      "name": "绣花肚兜、轻纱外衣与束脚宽裤"
+      "name": "绣花肚兜、轻纱外衣与束脚宽裤",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "绣花肚兜、轻纱外衣与束脚宽裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C219",
@@ -2409,7 +5255,17 @@
         "side": "assets/costume/C219/side.png",
         "back": "assets/costume/C219/back.png"
       },
-      "name": "绣花肚兜与长裙"
+      "name": "绣花肚兜与长裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "绣花肚兜与长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "C220",
@@ -2420,7 +5276,17 @@
         "side": "assets/costume/C220/side.png",
         "back": "assets/costume/C220/back.png"
       },
-      "name": "晚清·汉女长袄与褶裙"
+      "name": "晚清·汉女长袄与褶裙",
+      "era": "晚清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "湖蓝大襟长袄配绛红褶裙。袄裙结构对照馆藏。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "袄裙",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C221",
@@ -2431,7 +5297,17 @@
         "side": "assets/costume/C221/side.png",
         "back": "assets/costume/C221/back.png"
       },
-      "name": "晚清·商号长衫马褂"
+      "name": "晚清·商号长衫马褂",
+      "era": "晚清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "蓝灰长衫外罩深青对襟短马褂，保留衣长落差。 参考 那年花开月正圆。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衫马褂",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C222",
@@ -2442,7 +5318,17 @@
         "side": "assets/costume/C222/side.png",
         "back": "assets/costume/C222/back.png"
       },
-      "name": "民国·民初立领便袄裤"
+      "name": "民国·民初立领便袄裤",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "象牙白大襟立领便袄，搭清靛蓝直筒裤。衣型参考民初袄裤资料；明暗参照《金粉世家》的米白与蓝色搭配。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "袄裤",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C223",
@@ -2453,7 +5339,17 @@
         "side": "assets/costume/C223/side.png",
         "back": "assets/costume/C223/back.png"
       },
-      "name": "民国·蓝衫黑裙女学生装"
+      "name": "民国·蓝衫黑裙女学生装",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "清水蓝立领斜襟短衫，七分袖，配黑褶裙与黑布鞋。参考《金粉世家》冷清秋的学生装轮廓和配色。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "学生装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C224",
@@ -2464,7 +5360,17 @@
         "side": "assets/costume/C224/side.png",
         "back": "assets/costume/C224/back.png"
       },
-      "name": "民国·二十年代宽直身旗袍"
+      "name": "民国·二十年代宽直身旗袍",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "青绿色宽直身旗袍，宽袖低衩，保留二十年代直筒轮廓。配色参考《金粉世家》的清透青色。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗袍",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C225",
@@ -2475,7 +5381,19 @@
         "side": "assets/costume/C225/side.png",
         "back": "assets/costume/C225/back.png"
       },
-      "name": "民国·三十年代海派修身旗袍"
+      "name": "民国·三十年代海派修身旗袍",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "明石榴红疏花长旗袍，高领、收腰、适中开衩。红色疏花参照《情深深雨濛濛》，保留原版纹样。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗袍",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C226",
@@ -2486,7 +5404,19 @@
         "side": "assets/costume/C226/side.png",
         "back": "assets/costume/C226/back.png"
       },
-      "name": "民国·四十年代短袖日常旗袍"
+      "name": "民国·四十年代短袖日常旗袍",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "清水蓝小格棉布旗袍，低领短袖、膝下窄衩。衣型参考四十年代旗袍资料；浅蓝色调参考《情深深雨濛濛》。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗袍",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C227",
@@ -2497,7 +5427,19 @@
         "side": "assets/costume/C227/side.png",
         "back": "assets/costume/C227/back.png"
       },
-      "name": "民国·四袋中山装"
+      "name": "民国·四袋中山装",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "藏蓝翻领封闭式上衣，四枚袋盖口袋，配同色长裤。 参考 金粉世家及首都博物馆中山装展。 可用于县城文职、办事人员等角色的便装搭配。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "中山装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C228",
@@ -2508,7 +5450,19 @@
         "side": "assets/costume/C228/side.png",
         "back": "assets/costume/C228/back.png"
       },
-      "name": "民国·暗条纹三件套西装"
+      "name": "民国·暗条纹三件套西装",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "条纹翻领上衣、马甲与直筒裤，配浅衬衫和领带。 参考 金粉世家。 可用于民国城市商人及帮会人物的西式着装参考。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "西装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C229",
@@ -2519,7 +5473,19 @@
         "side": "assets/costume/C229/side.png",
         "back": "assets/costume/C229/back.png"
       },
-      "name": "民国·绗缝棉袄配直筒裤"
+      "name": "民国·绗缝棉袄配直筒裤",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "暖枣红立领绗缝棉袄，搭藏青直筒裤。保留冬季便装的绗线和厚度，参考民国剧红衣深裤的配色关系。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "袄裤",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C230",
@@ -2530,84 +5496,19 @@
         "side": "assets/costume/C230/side.png",
         "back": "assets/costume/C230/back.png"
       },
-      "name": "民国·短开衫叠穿素旗袍"
-    },
-    {
-      "id": "retired-C001",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C001/front.png",
-        "diag": "assets/costume/retired-C001/diag.png",
-        "side": "assets/costume/retired-C001/side.png",
-        "back": "assets/costume/retired-C001/back.png"
-      },
-      "name": "民国·藏蓝垂领洋装礼裙"
-    },
-    {
-      "id": "retired-C002",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C002/front.png",
-        "diag": "assets/costume/retired-C002/diag.png",
-        "side": "assets/costume/retired-C002/side.png",
-        "back": "assets/costume/retired-C002/back.png"
-      },
-      "name": "民国·王老五·米白布衫与拼布内衣"
-    },
-    {
-      "id": "retired-C003",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C003/front.png",
-        "diag": "assets/costume/retired-C003/diag.png",
-        "side": "assets/costume/retired-C003/side.png",
-        "back": "assets/costume/retired-C003/back.png"
-      },
-      "name": "民国·穆成英·橄榄绿黑绣上衣与长裙"
-    },
-    {
-      "id": "retired-C004",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C004/front.png",
-        "diag": "assets/costume/retired-C004/diag.png",
-        "side": "assets/costume/retired-C004/side.png",
-        "back": "assets/costume/retired-C004/back.png"
-      },
-      "name": "民国·白小鹅·砖红立领袄与滚边坎肩"
-    },
-    {
-      "id": "retired-C005",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C005/front.png",
-        "diag": "assets/costume/retired-C005/diag.png",
-        "side": "assets/costume/retired-C005/side.png",
-        "back": "assets/costume/retired-C005/back.png"
-      },
-      "name": "民国·依萍·红绣花双层纱袖舞台旗袍"
-    },
-    {
-      "id": "retired-C006",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C006/front.png",
-        "diag": "assets/costume/retired-C006/diag.png",
-        "side": "assets/costume/retired-C006/side.png",
-        "back": "assets/costume/retired-C006/back.png"
-      },
-      "name": "民国·如萍·大格翻领衫配深裙"
-    },
-    {
-      "id": "retired-C007",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C007/front.png",
-        "diag": "assets/costume/retired-C007/diag.png",
-        "side": "assets/costume/retired-C007/side.png",
-        "back": "assets/costume/retired-C007/back.png"
-      },
-      "name": "民国·白秀珠·泡袖蕾丝洋装"
+      "name": "民国·短开衫叠穿素旗袍",
+      "era": "民国",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "莓红短针织开衫叠穿深蓝立领素旗袍，配黑色低跟搭带鞋。叠穿与红蓝配色参考《情深深雨濛濛》依萍的造型。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "旗袍叠穿",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C231",
@@ -2618,7 +5519,17 @@
         "side": "assets/costume/C231/side.png",
         "back": "assets/costume/C231/back.png"
       },
-      "name": "民国·长汀红四军军服"
+      "name": "民国·长汀红四军军服",
+      "era": "民国",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "1929年长汀红四军军服参考。灰蓝布、八角帽、红领章、半长裤及绑腿。图中搭配编织草鞋。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C232",
@@ -2629,18 +5540,17 @@
         "side": "assets/costume/C232/side.png",
         "back": "assets/costume/C232/back.png"
       },
-      "name": "民国·八路军灰布军服"
-    },
-    {
-      "id": "retired-C008",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C008/front.png",
-        "diag": "assets/costume/retired-C008/diag.png",
-        "side": "assets/costume/retired-C008/side.png",
-        "back": "assets/costume/retired-C008/back.png"
-      },
-      "name": "民国·新四军灰布军服"
+      "name": "民国·八路军灰布军服",
+      "era": "民国",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "抗战初期八路军灰布军服的生成参考，帽式和衣型取一例。图中搭配黑面布鞋。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C233",
@@ -2651,7 +5561,19 @@
         "side": "assets/costume/C233/side.png",
         "back": "assets/costume/C233/back.png"
       },
-      "name": "民国·华北短褂布裤"
+      "name": "民国·华北短褂布裤",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "靛青短褂、宽直布裤与黑面布鞋。适配华北乡村便装、武工队便衣、地方游击队或民兵等角色；乡村土匪造型可借用同类民间衣型。配色为复原推定。 同类短衣布裤可作乡村商号伙计、农人和一般劳作者的创作参考。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "民间便装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C234",
@@ -2662,7 +5584,19 @@
         "side": "assets/costume/C234/side.png",
         "back": "assets/costume/C234/back.png"
       },
-      "name": "民国·商号长衫"
+      "name": "民国·商号长衫",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "深色立领长衫、布裤与黑面布鞋。适用传统商人、掌柜及城市长衫便装，也可供帮会人物创作搭配。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "长衫",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C235",
@@ -2673,7 +5607,17 @@
         "side": "assets/costume/C235/side.png",
         "back": "assets/costume/C235/back.png"
       },
-      "name": "民国·上海公共租界华捕制服"
+      "name": "民国·上海公共租界华捕制服",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "1930年代上海公共租界华捕制服参考，立领制服、檐帽、长裤与黑色系带鞋。配色及背面为推定。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "警服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C236",
@@ -2684,7 +5628,19 @@
         "side": "assets/costume/C236/side.png",
         "back": "assets/costume/C236/back.png"
       },
-      "name": "民国·国民革命军陆军士兵服"
+      "name": "民国·国民革命军陆军士兵服",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "1930年代陆军士兵制服取一例，中山装式上衣、布军帽、绑腿及深色布鞋。各部队被装有差异。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C237",
@@ -2695,7 +5651,17 @@
         "side": "assets/costume/C237/side.png",
         "back": "assets/costume/C237/back.png"
       },
-      "name": "民国·北洋陆军军官常服"
+      "name": "民国·北洋陆军军官常服",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "民初北洋陆军军官常服参考，大檐帽、立领制服、马裤和黑皮长靴。以历史影像可见轮廓为依据，配色为复原推定。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C238",
@@ -2706,7 +5672,19 @@
         "side": "assets/costume/C238/side.png",
         "back": "assets/costume/C238/back.png"
       },
-      "name": "五十年代·印花布拉吉"
+      "name": "五十年代·印花布拉吉",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "五十年代城市夏装。翻领、束腰与宽摆印花棉裙，搭黑色低跟鞋。花色为复原选择。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "连衣裙",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C239",
@@ -2717,7 +5695,17 @@
         "side": "assets/costume/C239/side.png",
         "back": "assets/costume/C239/back.png"
       },
-      "name": "五十年代·女式列宁装"
+      "name": "五十年代·女式列宁装",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "五十年代女职工、女干部便装。双排扣翻领上衣收腰，配直筒裤和黑布鞋。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "列宁装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C240",
@@ -2728,7 +5716,17 @@
         "side": "assets/costume/C240/side.png",
         "back": "assets/costume/C240/back.png"
       },
-      "name": "五十年代·灰色干部中山装"
+      "name": "五十年代·灰色干部中山装",
+      "era": "新中国（1949–1978）",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "五十年代干部服代表款。灰色四袋中山装配直筒裤和黑皮鞋；此搭配用于正式场合。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "中山装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C241",
@@ -2739,7 +5737,17 @@
         "side": "assets/costume/C241/side.png",
         "back": "assets/costume/C241/back.png"
       },
-      "name": "五六十年代·蓝布工作服"
+      "name": "五六十年代·蓝布工作服",
+      "era": "新中国（1949–1978）",
+      "gender": "通用",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "工厂日常棉布工作服参考。蓝布翻领贴袋短上衣、直筒裤和帆布工作鞋。各厂具体制服有差别。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "工装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C242",
@@ -2750,7 +5758,17 @@
         "side": "assets/costume/C242/side.png",
         "back": "assets/costume/C242/back.png"
       },
-      "name": "六七十年代·棉布青年装"
+      "name": "六七十年代·棉布青年装",
+      "era": "新中国（1949–1978）",
+      "gender": "通用",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "六七十年代城市青年便服参考。蓝灰小领短上衣搭深蓝直裤和黑色布鞋。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "青年装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C243",
@@ -2761,7 +5779,19 @@
         "side": "assets/costume/C243/side.png",
         "back": "assets/costume/C243/back.png"
       },
-      "name": "七十年代·乡村棉袄裤"
+      "name": "七十年代·乡村棉袄裤",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "北方乡村保暖衣型参考。小花棉袄、直筒棉裤、黑布鞋；图中花色为复原选择。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "棉袄裤",
+      "season_scope": null,
+      "seasons": [
+        "冬"
+      ]
     },
     {
       "id": "C244",
@@ -2772,7 +5802,19 @@
         "side": "assets/costume/C244/side.png",
         "back": "assets/costume/C244/back.png"
       },
-      "name": "六五式·陆军士兵夏服"
+      "name": "六五式·陆军士兵夏服",
+      "era": "新中国（1949–1978）",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "1965年式陆军士兵夏服。红星帽徽配红领章，草绿色棉布上衣、同色长裤与低帮帆布胶鞋；标识为示意。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C245",
@@ -2783,18 +5825,20 @@
         "side": "assets/costume/C245/side.png",
         "back": "assets/costume/C245/back.png"
       },
-      "name": "五六十年代·女式两用衫配裙"
-    },
-    {
-      "id": "retired-C009",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C009/front.png",
-        "diag": "assets/costume/retired-C009/diag.png",
-        "side": "assets/costume/retired-C009/side.png",
-        "back": "assets/costume/retired-C009/back.png"
-      },
-      "name": "五五式·船形帽陆军士兵夏服"
+      "name": "五六十年代·女式两用衫配裙",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "五六十年代城市女装参考。翻领棉布两用衫、深色半裙与黑布鞋，配色为复原选择。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "两用衫",
+      "season_scope": null,
+      "seasons": [
+        "春",
+        "秋"
+      ]
     },
     {
       "id": "C246",
@@ -2805,7 +5849,19 @@
         "side": "assets/costume/C246/side.png",
         "back": "assets/costume/C246/back.png"
       },
-      "name": "五〇式·女军人夏裙服"
+      "name": "五〇式·女军人夏裙服",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "五十年代初期女军人夏季裙服参考。图示1951年后可见的无沿软帽，搭配棉布裙服与低跟鞋；细节为复原参考。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C247",
@@ -2816,7 +5872,17 @@
         "side": "assets/costume/C247/side.png",
         "back": "assets/costume/C247/back.png"
       },
-      "name": "七十年代·女知青花布衫裤"
+      "name": "七十年代·女知青花布衫裤",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "七十年代女知青便装取一例。小花长袖棉布衫、宽松深色长裤与胶底帆布鞋，花色为复原选择。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "知青便装",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C248",
@@ -2827,7 +5893,19 @@
         "side": "assets/costume/C248/side.png",
         "back": "assets/costume/C248/back.png"
       },
-      "name": "五〇式·陆军士兵套头夏服"
+      "name": "五〇式·陆军士兵套头夏服",
+      "era": "新中国（1949–1978）",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "1950年初期陆军士兵夏服参考，搭大檐帽与套头上衣；陆军自1951年起陆续换回解放帽。标识为示意。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C249",
@@ -2838,7 +5916,17 @@
         "side": "assets/costume/C249/side.png",
         "back": "assets/costume/C249/back.png"
       },
-      "name": "五十年代·城市护士工作服"
+      "name": "五十年代·城市护士工作服",
+      "era": "新中国（1949–1978）",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "参考建国初期护士影像。白色工作外衣、简式白帽与白布鞋；裤装与鞋履为参考搭配。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "医护服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C250",
@@ -2849,7 +5937,19 @@
         "side": "assets/costume/C250/side.png",
         "back": "assets/costume/C250/back.png"
       },
-      "name": "七十年代·少先队活动装"
+      "name": "七十年代·少先队活动装",
+      "era": "新中国（1949–1978）",
+      "gender": "通用",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "七十年代少先队集体活动服饰参考。白短袖衬衫系红领巾，配蓝长裤与帆布鞋；各校穿着有差别。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "学生装",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C251",
@@ -2860,29 +5960,19 @@
         "side": "assets/costume/C251/side.png",
         "back": "assets/costume/C251/back.png"
       },
-      "name": "七十年代·海军水兵夏服"
-    },
-    {
-      "id": "retired-C010",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C010/front.png",
-        "diag": "assets/costume/retired-C010/diag.png",
-        "side": "assets/costume/retired-C010/side.png",
-        "back": "assets/costume/retired-C010/back.png"
-      },
-      "name": "民国·国民革命军陆军乘马军官常服"
-    },
-    {
-      "id": "retired-C011",
-      "kind": "costume",
-      "views": {
-        "front": "assets/costume/retired-C011/front.png",
-        "diag": "assets/costume/retired-C011/diag.png",
-        "side": "assets/costume/retired-C011/side.png",
-        "back": "assets/costume/retired-C011/back.png"
-      },
-      "name": "民国·1946年警察冬季制服"
+      "name": "七十年代·海军水兵夏服",
+      "era": "新中国（1949–1978）",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "1974年海军恢复水兵服后的夏季水兵着装参考。白色上衣、深蓝水兵领及长裤，搭水兵帽和黑鞋；帽饰为示意。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": [
+        "夏"
+      ]
     },
     {
       "id": "C252",
@@ -2893,7 +5983,19 @@
         "side": "assets/costume/C252/side.png",
         "back": "assets/costume/C252/back.png"
       },
-      "name": "民国·四六式陆军军官常服"
+      "name": "民国·四六式陆军军官常服",
+      "era": "民国",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "国民政府时期（1927–1949）"
+      ],
+      "summary": "1946年后陆军军官常服的关领肩袢式代表款。配大檐帽、直筒裤和系带皮鞋。各部队换装先后不同，标识为示意。",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "军服",
+      "season_scope": null,
+      "seasons": []
     },
     {
       "id": "C253",
@@ -2904,7 +6006,17 @@
         "side": "assets/costume/C253/side.png",
         "back": "assets/costume/C253/back.png"
       },
-      "name": "绣花真丝外套、挂颈肚兜与齐腰长裙"
+      "name": "绣花真丝外套、挂颈肚兜与齐腰长裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [],
+      "summary": "绣花真丝外套、挂颈肚兜与齐腰长裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "古风拍照套装",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I001",
@@ -2915,7 +6027,17 @@
         "side": "assets/inner/I001/side.png",
         "back": "assets/inner/I001/back.png"
       },
-      "name": "汉风·交领中衣与衬裤"
+      "name": "汉风·交领中衣与衬裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "内搭参考 · AI 原创设计",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I002",
@@ -2926,7 +6048,17 @@
         "side": "assets/inner/I002-garment-only/side.png",
         "back": "assets/inner/I002-garment-only/back.png"
       },
-      "name": "唐风女式·宽袖内衫与无袖交领搭层"
+      "name": "唐风女式·宽袖内衫与无袖交领搭层",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "叠穿参考 · 共享内搭",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I003",
@@ -2937,7 +6069,21 @@
         "side": "assets/inner/I003-ming-pure/side.png",
         "back": "assets/inner/I003-ming-pure/back.png"
       },
-      "name": "通用男式·交领短中衣与宽衬裤"
+      "name": "通用男式·交领短中衣与宽衬裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": [
+        "唐",
+        "元",
+        "明"
+      ],
+      "summary": "纯服装 · 交领短中衣与宽衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I004",
@@ -2948,7 +6094,17 @@
         "side": "assets/inner/I004-garment-only/side.png",
         "back": "assets/inner/I004-garment-only/back.png"
       },
-      "name": "唐风女式·侧系带裹身内搭"
+      "name": "唐风女式·侧系带裹身内搭",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "独立内搭 · 共享内搭",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I005",
@@ -2959,7 +6115,17 @@
         "side": "assets/inner/I005/side.png",
         "back": "assets/inner/I005/back.png"
       },
-      "name": "明风女式·无袖交领系带内搭"
+      "name": "明风女式·无袖交领系带内搭",
+      "era": "明",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 无袖交领系带内搭",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I006",
@@ -2970,7 +6136,17 @@
         "side": "assets/inner/I006-garment-only/side.png",
         "back": "assets/inner/I006-garment-only/back.png"
       },
-      "name": "双片系带内搭"
+      "name": "双片系带内搭",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 前后衣片与侧边系带",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I007",
@@ -2981,7 +6157,17 @@
         "side": "assets/inner/I007-garment-only/side.png",
         "back": "assets/inner/I007-garment-only/back.png"
       },
-      "name": "素色交领中衣裤"
+      "name": "素色交领中衣裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 交领、布带与宽松裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I008",
@@ -2992,7 +6178,17 @@
         "side": "assets/inner/I008-garment-only/side.png",
         "back": "assets/inner/I008-garment-only/back.png"
       },
-      "name": "挂颈系带内搭"
+      "name": "挂颈系带内搭",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 挂颈、前片与腰间系带",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I009",
@@ -3003,7 +6199,20 @@
         "side": "assets/inner/I009-song-pure/side.png",
         "back": "assets/inner/I009-song-pure/back.png"
       },
-      "name": "通用男式·交领长中衣与收脚衬裤"
+      "name": "通用男式·交领长中衣与收脚衬裤",
+      "era": "通用",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": [
+        "唐",
+        "宋"
+      ],
+      "summary": "纯服装 · 交领中衣与宽松衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I010",
@@ -3014,7 +6223,17 @@
         "side": "assets/inner/I010-garment-only/side.png",
         "back": "assets/inner/I010-garment-only/back.png"
       },
-      "name": "唐风男式·收腕袖中衣与宽松衬裤"
+      "name": "唐风男式·收腕袖中衣与宽松衬裤",
+      "era": "唐",
+      "gender": "男",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "基础版型 · 共享内搭",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I011",
@@ -3025,7 +6244,17 @@
         "side": "assets/inner/I011-garment-only/side.png",
         "back": "assets/inner/I011-garment-only/back.png"
       },
-      "name": "唐风女式·中衣掖入裙腰示例"
+      "name": "唐风女式·中衣掖入裙腰示例",
+      "era": "唐",
+      "gender": "女",
+      "age": null,
+      "applicable_eras": null,
+      "summary": "穿法示例 · 共享内搭",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I012",
@@ -3036,7 +6265,23 @@
         "side": "assets/inner/I012-garment-only/side.png",
         "back": "assets/inner/I012-garment-only/back.png"
       },
-      "name": "通用女式·交领短中衣与长内裙"
+      "name": "通用女式·交领短中衣与长内裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": [
+        "汉",
+        "唐",
+        "宋",
+        "元",
+        "明"
+      ],
+      "summary": "纯服装 · 交领短中衣与长内裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I013",
@@ -3047,7 +6292,17 @@
         "side": "assets/inner/I013-han-pure/side.png",
         "back": "assets/inner/I013-han-pure/back.png"
       },
-      "name": "汉风·男童中衣与衬裤"
+      "name": "汉风·男童中衣与衬裤",
+      "era": "汉",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I014",
@@ -3058,7 +6313,22 @@
         "side": "assets/inner/I014-season-pure/side.png",
         "back": "assets/inner/I014-season-pure/back.png"
       },
-      "name": "通用·儿童交领中衣与衬裤"
+      "name": "通用·儿童交领中衣与衬裤",
+      "era": "通用",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": [
+        "唐",
+        "宋",
+        "元",
+        "明"
+      ],
+      "summary": "纯服装 · 儿童交领中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I015",
@@ -3069,7 +6339,23 @@
         "side": "assets/inner/I015-season-pure/side.png",
         "back": "assets/inner/I015-season-pure/back.png"
       },
-      "name": "通用·儿童交领中衣与内裙"
+      "name": "通用·儿童交领中衣与内裙",
+      "era": "通用",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": [
+        "汉",
+        "唐",
+        "宋",
+        "元",
+        "明"
+      ],
+      "summary": "纯服装 · 儿童交领中衣与内裙",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "共享内衬",
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I016",
@@ -3080,7 +6366,17 @@
         "side": "assets/inner/I016-season-pure/side.png",
         "back": "assets/inner/I016-season-pure/back.png"
       },
-      "name": "清风·男式中衣与衬裤"
+      "name": "清风·男式中衣与衬裤",
+      "era": "清",
+      "gender": "男",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男式中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I017",
@@ -3091,7 +6387,17 @@
         "side": "assets/inner/I017-season-pure/side.png",
         "back": "assets/inner/I017-season-pure/back.png"
       },
-      "name": "清风·女式中衣与衬裤"
+      "name": "清风·女式中衣与衬裤",
+      "era": "清",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女式中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I018",
@@ -3102,7 +6408,17 @@
         "side": "assets/inner/I018-season-pure/side.png",
         "back": "assets/inner/I018-season-pure/back.png"
       },
-      "name": "清风·男童中衣与衬裤"
+      "name": "清风·男童中衣与衬裤",
+      "era": "清",
+      "gender": "男",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 男童中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I019",
@@ -3113,7 +6429,17 @@
         "side": "assets/inner/I019-season-pure/side.png",
         "back": "assets/inner/I019-season-pure/back.png"
       },
-      "name": "清风·女童中衣与衬裤"
+      "name": "清风·女童中衣与衬裤",
+      "era": "清",
+      "gender": "女",
+      "age": "儿童",
+      "applicable_eras": null,
+      "summary": "纯服装 · 女童中衣与衬裤",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": null,
+      "season_scope": "不分季节",
+      "seasons": []
     },
     {
       "id": "I020",
@@ -3124,7 +6450,17 @@
         "diag": "assets/inner/I020/diag.png",
         "side": "assets/inner/I020/side.png",
         "back": "assets/inner/I020/back.png"
-      }
+      },
+      "era": "通用",
+      "gender": "女",
+      "age": "成年",
+      "applicable_eras": null,
+      "summary": "绛红平口三花小肚兜",
+      "pose_category": null,
+      "head_type": null,
+      "costume_family": "肚兜",
+      "season_scope": null,
+      "seasons": null
     }
   ]
 }

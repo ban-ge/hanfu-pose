@@ -13,6 +13,8 @@ def main():
     data = json.loads(CATALOG.read_text())
     count = 0
     for item in data['items']:
+        if item['image'] in item.get('view_files', {}).values():
+            continue  # Current entries already contain original, independent views.
         source = ROOT / item['image']
         info = subprocess.check_output(['sips', '-g', 'pixelWidth', '-g', 'pixelHeight', str(source)], text=True)
         w = int(re.search(r'pixelWidth: (\d+)', info).group(1))

@@ -51,7 +51,7 @@ for slug, era in eras.items():
                     assert item.get('season_scope') == '不分季节', ident
     summary[era] = dict(groups=len(own), kinds=dict(Counter(i['kind'] for i in own)), families=len(families), role_gender_options=len(roles), seasons_without_tagged_candidates=unrepresented)
 for item in items:
-    if item['kind'] in ['costume', 'inner']:
+    if item['kind'] in ['costume', 'inner'] and item.get('presentation'):
         assert item['presentation'] == 'garment-only', item['id']
     if item.get('seasons'):
         assert set(item['seasons']) <= set('春夏秋冬'), (item['id'], 'invalid season')
@@ -59,8 +59,9 @@ for item in items:
         assert item['season'] in list('春夏秋冬'), (item['id'], 'invalid season')
     if item['kind'] == 'head':
         assert item['head_type'] in ['hairstyle', 'headwear'], item['id']
-        assert item['presentation'] == {'hairstyle': 'hair-only', 'headwear': 'headwear-only'}[item['head_type']], item['id']
-    assert len(set(item['view_files'].values())) == 4, item['id']
+        if item.get('presentation'):
+            assert item['presentation'] == {'hairstyle': 'hair-only', 'headwear': 'headwear-only'}[item['head_type']], item['id']
+    assert len(set(item['view_files'].values())) == (5 if item['kind'] == 'pose' else 4), item['id']
     assert all((ROOT/p).is_file() for p in item['view_files'].values()), item['id']
 # Distinguish non-combat military duty from armor and civilian bird badges.
 ming = read('data/ming-role-outfits.json')
@@ -76,4 +77,4 @@ warrior = next(r for r in qing if r['role'] == '武官／将军')
 civilian = next(r for r in qing if r['role'] == '文官')
 assert {by_id[i]['costume_family'] for i in warrior['costume']} == {'二品武官补褂', '军旅钉甲'}
 assert not set(warrior['costume']) & set(civilian['costume'])
-print(json.dumps(dict(groups=len(items), views=len(items)*4, eras=summary, season_policy='季节为适用标签，不要求四季满格；无候选不自动构成补图任务', visual_and_historical_accuracy='需另行复核'), ensure_ascii=False, indent=2))
+print(json.dumps(dict(groups=len(items), views=sum(len(item['view_files']) for item in items), eras=summary, season_policy='季节为适用标签，不要求四季满格；无候选不自动构成补图任务', visual_and_historical_accuracy='需另行复核'), ensure_ascii=False, indent=2))

@@ -1,5 +1,5 @@
 const labels = { pose: '姿势', costume: '服装', head: '发型头饰' };
-const viewNames = { front: '正面', diag: '斜侧', side: '侧面', back: '背面' };
+const viewNames = { front: '正面', diag: '斜侧', side: '侧面', back: '背面', high: '俯拍', low: '仰拍' };
 const state = { items: [], kind: 'pose', era: 'all', gender: 'all', season: 'all', selected: {}, cardAngles: {}, detail: null, angle: 'front' };
 const $ = selector => document.querySelector(selector);
 const escapeHtml = text => String(text).replace(/[&<>"']/g, c => ({ '&': '&amp;', '<': '&lt;', '>': '&gt;', '"': '&quot;', "'": '&#39;' })[c]);
@@ -67,7 +67,7 @@ function setDetailAngle(angle) {
   $('#detail-img').alt = `${item.name}，${viewNames[angle]}参考图`;
   $('#download').href = item.view_files[angle];
   $('#download').download = `${item.id}-${angle}.png`;
-  $('#view-tabs').innerHTML = Object.entries(viewNames).map(([key, label]) => `<button data-angle="${key}" class="${key === angle ? 'active' : ''}" aria-pressed="${key === angle}">${label}</button>`).join('');
+  $('#view-tabs').innerHTML = Object.entries(viewNames).filter(([key]) => item.view_files[key]).map(([key, label]) => `<button data-angle="${key}" class="${key === angle ? 'active' : ''}" aria-pressed="${key === angle}">${label}</button>`).join('');
 }
 function openDetail(item) {
   state.detail = item;

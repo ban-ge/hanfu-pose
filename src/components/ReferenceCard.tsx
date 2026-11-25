@@ -1,45 +1,91 @@
-import { Button } from '@heroui/react';
-import { Plus } from 'lucide-react';
-import { angles, assetUrl, categoryOf, kindLabels, slotLabels, choiceSlot, viewLabels, type Angle, type ReferenceItem } from '../types';
+import { displayTitle } from '../library';
+import { useState } from 'react';
+import { assetAngles, assetUrl, poseAngles, viewLabels, type Angle, type ReferenceItem } from '../types';
+import { ImagePreview } from './ImagePreview';
 
+type View = Angle | 'example';
 type Props = {
   item: ReferenceItem;
-  angle: Angle;
+  angle?: Angle;
   selected: boolean;
-  onAngle: (angle: Angle) => void;
   onOpen: () => void;
-  onSelect: () => void;
+  onSelect: (angle: Angle) => void;
 };
 
-export const ReferenceCard = ({ item, angle, selected, onAngle, onOpen, onSelect }: Props) => {
-  const image = item.view_files[angle];
-  const garment = item.kind === 'costume' || item.kind === 'inner';
-  if (!image) return null;
+function flyToWorkbench(source: HTMLElement, imageUrl: string) {
+  if (window.matchMedia("(prefers-reduced-motion: reduce)").matches) return;
+
+  const target = [...document.querySelectorAll('a[href="#combine"]')]
+    .map((link) => link.getBoundingClientRect())
+    .find(({ width, height, top, bottom, left, right }) =>
+      width > 0 && height > 0 && top >= 0 && bottom <= window.innerHeight &&
+      left >= 0 && right <= window.innerWidth,
+    );
+  if (!target) return;
+
+  const from = source.getBoundingClientRect();
+  const x = from.left + from.width / 2;
+  const y = from.top + from.height / 2;
+  const dx = target.left + target.width / 2 - x;
+  const dy = target.top + target.height / 2 - y;
+  const lift = Math.min(140, Math.max(48, Math.abs(dx) * 0.23));
+  const image = document.createElement("img");
+  image.src = imageUrl;
+  image.alt = "";
+  image.setAttribute("aria-hidden", "true");
+  image.className = "pointer-events-none fixed z-[9999] size-16 rounded-xl border border-white/10 bg-white object-cover shadow-lg";
+  image.style.left = `${x - 32}px`;
+  image.style.top = `${y - 32}px`;
+  document.body.append(image);
+
+  const frames = Array.from({ length: 21 }, (_, index) => {
+    const t = index / 20;
+    const translateY = dy * t - 4 * lift * t * (1 - t);
+    return {
+      transform: `translate(${dx * t}px, ${translateY}px) scale(${1 - 0.8 * t})`,
+      opacity: Math.min(1, 4 * (1 - t)),
+    };
+  });
+  return image.animate(frames, { duration: 530, easing: "ease-in-out" })
+    .finished.catch(() => undefined).finally(() => image.remove());
+}
+
+export const ReferenceCard = ({ item, angle, selected, onOpen, onSelect }: Props) => {
+  const [hovered, setHovered] = useState<View | null>(null);
+  const [zoom, setZoom] = useState<number | null>(null);
+  const views: View[] = (item.kind === 'pose' ? poseAngles : assetAngles).filter(key => item.view_files[key]);
+  if (item.example) views.unshift('example');
+  const preview = hovered ?? angle ?? views[0];
+  const path = (view: View, full = false) => assetUrl(view === 'example'
+    ? (full ? item.exampleFull ?? item.example! : item.example!)
+    : item.view_files[view]!);
+  const label = (view: View) => view === 'example' ? '拟拍' : viewLabels[view];
+  const title = displayTitle(item);
   return (
-    <article className="min-w-0 rounded-2xl bg-[#242729] p-2.5 sm:p-3">
-      <div className="relative overflow-hidden rounded-xl bg-[#e8e4de]">
-        <button type="button" onClick={onOpen} aria-label={`查看${item.name}详情`} className="block w-full cursor-zoom-in">
-          <img src={assetUrl(image)} alt={`${item.name} ${viewLabels[angle]}参考图`} loading="lazy" width={900} height={1600} className="block h-auto w-full" />
-        </button>
-        <span className="pointer-events-none absolute left-2.5 top-2.5 rounded-full bg-black/65 px-2.5 py-1 text-[11px] font-bold text-white">{item.id}</span>
-        <span className="pointer-events-none absolute right-2.5 top-2.5 rounded-full bg-white/90 px-2.5 py-1 text-[11px] font-semibold text-[#202220]">{viewLabels[angle]}</span>
-        <Button size="sm" variant="secondary" onPress={onSelect} className="!absolute !bottom-2.5 !left-2.5 !h-8 !min-h-0 !rounded-full !bg-[#202423]/85 !px-3 !text-xs !font-semibold !text-white">
-          <Plus size={14} />{selected ? '已加入配方' : '加入配方'}
-        </Button>
-      </div>
-      <div className="px-1 pb-0.5 pt-4">
-        <h3 className="min-h-10 text-sm font-semibold leading-5 text-[#f1f2ed]">{item.name}</h3>
-        {item.kind === 'head' && item.role && <p className="mt-1 text-xs leading-5 text-[#b6c4aa]">适用参考：{item.role}</p>}
-        <div className="mt-3 flex items-center justify-between gap-2 text-xs text-[#a1a5a0]"><span>{item.kind === 'head' ? slotLabels[choiceSlot(item)] : kindLabels[item.kind]} · {item.gender}</span><span className="text-[#d2d6ce]">{categoryOf(item)}</span></div>
-        <div className="mt-3 grid grid-cols-4 gap-1.5" role="group" aria-label={`${item.name}视角`}>
-          {angles.filter(key => item.view_files[key]).map(key => (
-            <button key={key} type="button" onClick={() => onAngle(key)} aria-pressed={key === angle} aria-label={`${item.name}：${viewLabels[key]}`} className={`min-w-0 rounded-lg border p-0.5 text-[10px] transition ${key === angle ? 'border-[#e0e8cf] text-white' : 'border-transparent text-[#999f9a] hover:border-[#676e68]'}`}>
-              <img src={assetUrl(item.view_files[key]!)} alt="" loading="lazy" className={`w-full rounded-md bg-[#e8e4de] object-contain ${garment ? 'aspect-[9/16]' : 'aspect-square'}`} />
-              <span className="block py-0.5">{viewLabels[key]}</span>
-            </button>
-          ))}
+    <article className="min-w-0 overflow-hidden rounded-xl border border-white/10 bg-[#242729]">
+      <button type="button" onClick={() => setZoom(views.indexOf(preview))} aria-label={`放大预览${title}`} className="group relative block aspect-[9/16] w-full cursor-zoom-in overflow-hidden bg-white">
+        {views.map(view => <img key={view} src={path(view)} alt={title + ' ' + label(view)} aria-hidden={preview !== view} loading="lazy"
+          className={`absolute inset-0 size-full object-contain motion-safe:transition-[opacity,scale] motion-safe:duration-300 motion-safe:group-hover:scale-105 ${preview === view ? 'opacity-100' : 'opacity-0'}`} />)}
+      </button>
+      <div className="grid gap-2 p-3">
+        <small className="text-xs text-[#a1a5a0]">{item.id} · {item.era} · {item.gender}{selected && ' · 已加入配方'}</small>
+        <button type="button" onClick={onOpen} aria-label={`查看${title}详情`} className="text-left text-sm font-semibold">{title}</button>
+        <div role="group" aria-label={title + '视角'} className="grid gap-1" style={{gridTemplateColumns: `repeat(${views.length}, minmax(0, 2.25rem))`}}>
+          {views.map(view => <button type="button" key={view} aria-label={view === 'example' ? 'AI 拟拍示例' : `预览${label(view)}，添加${title} · ${item.kind === 'pose' ? label(view) : '正面主图'}`}
+            onPointerEnter={event => { if (event.pointerType === 'mouse') setHovered(view); }} onPointerLeave={() => setHovered(null)}
+            onClick={event => {
+              if (view === 'example') { setHovered(null); return; }
+              const reference = item.kind === 'pose' ? view : 'front';
+              onSelect(reference);
+              void flyToWorkbench(event.currentTarget, path(reference));
+            }}
+            className={`group relative aspect-[2/3] min-w-0 overflow-hidden rounded-md border bg-white ${preview === view ? 'border-[#b9cb98]' : 'border-white/10'}`}>
+            <img src={path(view)} alt="" loading="lazy" className={`absolute inset-0 size-full motion-safe:transition-transform motion-safe:group-hover:scale-105 ${view === 'example' ? 'object-cover object-[center_75%]' : 'object-contain'}`} />
+            <span className="absolute inset-x-0 bottom-0 bg-gradient-to-t from-black/80 to-transparent pt-2 text-[10px] text-white opacity-0 group-hover:opacity-100 group-focus-visible:opacity-100 motion-safe:transition-opacity">{label(view)}</span>
+          </button>)}
         </div>
       </div>
+      {zoom !== null && <ImagePreview label={title} whiteBackground images={views.map(view => path(view, true))} index={zoom} onIndexChange={setZoom} />}
     </article>
   );
 };
