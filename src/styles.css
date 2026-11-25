@@ -1,0 +1,10 @@
+@import "tailwindcss";
+@import "@heroui/styles";
+
+:root { color-scheme: dark; font-family: Inter, "PingFang SC", "Microsoft YaHei", sans-serif; font-synthesis: none; background: #101213; }
+body { margin: 0; min-width: 320px; }
+button, input, select, textarea { font: inherit; }
+button, a { -webkit-tap-highlight-color: transparent; }
+button:focus-visible, a:focus-visible, input:focus-visible, select:focus-visible, textarea:focus-visible { outline: 2px solid #c5d982; outline-offset: 3px; }
+select option { background: #222629; color: #eee; }
+dialog::backdrop { background: rgb(0 0 0 / .76); }
