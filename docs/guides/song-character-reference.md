@@ -1,5 +1,7 @@
 # 宋朝人物参考库：代表性角色与服饰清单
 
+[English](song-character-reference.en.md)
+
 本示例按 [精简生成规范](dynasty-reference-workflow.md) 使用：角色表用于规划组合，不逐角色、逐性别、逐季生图；共享内衬不分四季，外衣只按独特结构新增，实际图片按当前授权范围分批制作。
 
 ## 范围与依据

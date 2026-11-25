@@ -1,5 +1,7 @@
 # 架构
 
+[English](ARCHITECTURE.en.md)
+
 项目是 React 19 + TypeScript + Vite 的静态本地图鉴，使用 Tailwind CSS 4 和 HeroUI 3。组合工作台可通过浏览器调用用户配置的 OpenAI 兼容图片编辑接口。三个分发索引在构建时提供上架条目与筛选字段，`data/catalog.json` 提供已有条目的详细档案；筛选、视角和配方状态由 React 在当前页面内管理，刷新后不保留。
 
 `src/App.tsx` 负责筛选条件、搜索、各卡片视角和配方选择；`src/components/ReferenceCard.tsx` 展示单组视角，`src/components/DetailDialog.tsx` 展示详情、下载与质检说明，`src/components/Workbench.tsx` 负责组合提示词和选中素材的展示。`src/types.ts` 维护素材类型和公共视角名称。Vite 构建时复制 `assets/` 到 `dist/assets/`，供预览和静态部署读取；原始图库保留在项目根目录。

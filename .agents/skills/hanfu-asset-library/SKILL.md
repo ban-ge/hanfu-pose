@@ -5,6 +5,8 @@ description: 为 hanfu-pose 制作、替换或批量验收服饰、发型头饰�
 
 # 汉服素材制作与同步
 
+[English](SKILL.en.md)
+
 ## 原图归属
 
 以 hanfu-pose 为 GitHub 开源素材源库，cgi-image-hanfu 为网站消费库。参考 Shisei 的独立角度文件、机器可读目录和派生尺寸分层。先按编号与角度在源库保存足尺寸原图，更新对应目录索引，再从实际落盘的原图导出网站文件。服装与内搭按 data/garment-images.json 定位，图鉴资料按 data/catalog.json 定位。
