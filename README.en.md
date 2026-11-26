@@ -1,6 +1,6 @@
 # Form & Attire · A Hanfu Portrait Reference Library
 
-[简体中文](README.md) | **English**
+[简体中文](README.md) | **English** | [Live preview](https://hanfu.bange.si/)
 
 An open image library for planning Hanfu portrait shoots, sharing styling ideas, and generating portraits from multiple references. Download a garment, hairstyle, or pose on its own, or use its ID to compare the same subject from several angles. The images are AI-assisted designs. Dynasty and role tags help you find references for creative work. For historical reconstruction, check garment construction and dress conventions against historical sources.
 
